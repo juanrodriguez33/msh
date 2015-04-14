@@ -1,0 +1,27 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           contract
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              contract
+    plural:                contracts
+    route_prefix:          contract
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields: ~
+      list:
+        title:    Contracts
+        display:  [title, online, preferred, price, placements, developments]
+      filter:
+        display:  [price, online, placements, developments]
+      form:
+        display:
+          Title:    [en<?php foreach(LanguagePeer::getIndex() as $oLang) { echo ','.$oLang->getCulture();} ?>]
+          Package:  [online, preferred, price, placements, developments]
+      edit:    ~
+      new:     ~

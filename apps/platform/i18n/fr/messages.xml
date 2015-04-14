@@ -1,0 +1,2858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="fr" datatype="plaintext" original="messages" date="2013-08-22T21:44:52Z" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>menu.sell-your-home</source>
+        <target>Promouvoir vos propriétés</target>
+        <note>Menu button sell your home</note>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>menu.sign-in</source>
+        <target>S'inscrire</target>
+        <note>Menu button sign in</note>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>menu.follow-us</source>
+        <target>Suivez-nous</target>
+        <note>Menu button follow us</note>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>menu.languages</source>
+        <target>Langues</target>
+        <note>Menu button languages</note>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>menu.newsletter</source>
+        <target>Newsletter</target>
+        <note>Menu button newsletter</note>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>menu.homepage</source>
+        <target>Page d'accueil </target>
+        <note>Menu button homepage</note>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>phase.orient</source>
+        <target>S'orienter</target>
+        <note>Phase: orient</note>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>phase.inform</source>
+        <target>Conseils d'achat</target>
+        <note>Phase: inform</note>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>phase.advice</source>
+        <target>Q et A</target>
+        <note>Phase: advice</note>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>phase.find</source>
+        <target>Propriétés</target>
+        <note>Phase: find</note>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>menu.all-countries</source>
+        <target>Tous les pays</target>
+        <note>Menu button all countries</note>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>step</source>
+        <target>étape</target>
+        <note>Word: step</note>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>step.proceed</source>
+        <target>procéder par étape</target>
+        <note>Proceed to step text</note>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>subject.all</source>
+        <target>Tout</target>
+        <note>Url/All tab in content overviews</note>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>readmore</source>
+        <target>Lire plus</target>
+        <note>Text: readmore</note>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>orient.themes</source>
+        <target>Thèmes</target>
+        <note>Word: themes</note>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>homepage</source>
+        <target>Page d'accueil</target>
+        <note>Word: homepage</note>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>topratedpropertiesin</source>
+        <target>Les propriétés les mieux notées dans</target>
+        <note>Text: top rated properties in</note>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>topratedproperties</source>
+        <target>Les propriétés les mieux notées</target>
+        <note>Text: top rated properties</note>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>seeallproperties</source>
+        <target>Vous toutes les propriétés</target>
+        <note>Text: see all properties</note>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>totalofferin</source>
+        <target>Complétez l'offre dans</target>
+        <note>Text: total offer in</note>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>is</source>
+        <target>est</target>
+        <note>Text: is</note>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>properties</source>
+        <target>propriétés</target>
+        <note>Word: properties</note>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>totaloffer</source>
+        <target>Complétez l'offre</target>
+        <note>Text: total offer</note>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>subject.search</source>
+        <target>Recherche</target>
+        <note>Url/tab in content overview: search</note>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>themes</source>
+        <target>Thèmes</target>
+        <note>Url/Word: themes</note>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>orient.chooseCountry</source>
+        <target>Destinations</target>
+        <note>Url/Menu: choose Country</note>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>subject.countryInformation</source>
+        <target>Informations</target>
+        <note>Url/tab in country detail</note>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>inform.about</source>
+        <target>Informations sur l'achat</target>
+        <note>Text: inform about</note>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>inform.country</source>
+        <target>Informations sur le pays</target>
+        <note>Text: inform country</note>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>more-pictures</source>
+        <target>Plus d'images</target>
+        <note>Text: more pictures</note>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>inform.areas</source>
+        <target>Achetez une maison dans</target>
+        <note>Text: Inform areas</note>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>morearticles</source>
+        <target>Plus d'articles</target>
+        <note>Text: more articles</note>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>morequestions</source>
+        <target>Plus de questions</target>
+        <note>Text: more questions</note>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>inform.moreinfo</source>
+        <target>Plus d'informations</target>
+        <note>Text: more ino</note>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>backtolist</source>
+        <target>Retour à l'aperçu</target>
+        <note>Button: back to list</note>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>comment</source>
+        <target>Commentaire</target>
+        <note>Text: comment</note>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>comments</source>
+        <target>Commentaires sur cette question</target>
+        <note>Text: comments</note>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>comments.see</source>
+        <target>Voir les commentaires</target>
+        <note>Button: see comments</note>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>comments.hide</source>
+        <target>Masquer les commentaires</target>
+        <note>Button: hide comments</note>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>by</source>
+        <target>par</target>
+        <note>Word: by</note>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>on</source>
+        <target>sur</target>
+        <note>Word: on</note>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>readless</source>
+        <target>Cacher</target>
+        <note>Text: read less</note>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>comment.add</source>
+        <target>Ajouter un commentaire</target>
+        <note>Button: add comment</note>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>comment.thanks</source>
+        <target>Merci pour votre commentaire. Connectez-vous sur votre boite de réception pour confirmer.</target>
+        <note>Text: Thanks for posting your comment</note>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>form.name</source>
+        <target>Nom *</target>
+        <note>Form label: name</note>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>comment.message</source>
+        <target>Commentaire</target>
+        <note>Form label: Comment message</note>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>form.email</source>
+        <target>Email *</target>
+        <note>Form label: email</note>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>relatedarticles</source>
+        <target>Articles du même sujet</target>
+        <note>Text: related articles</note>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>questionnothere</source>
+        <target>Poser votre question</target>
+        <note>Button: question not here, ask</note>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>directyourquestiontoourexperts</source>
+        <target>Contacter nos experts</target>
+        <note>Button: direct your question to our expers</note>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>experts in</source>
+        <target>Experts sur</target>
+        <note>Text: experts in</note>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>category.select</source>
+        <target>Sélectionner une catégorie</target>
+        <note>Text: Select a category</note>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>sort.date.desc</source>
+        <target>Date (les plus récents en premier)</target>
+        <note>Text: sort by Date (newest first)</note>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>sort.date.asc</source>
+        <target>Date (les plus anciens en premier)</target>
+        <note>Text: sort by Date (oldest first)</note>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>sort.rating.asc</source>
+        <target>Classement (les moins bons en premier)</target>
+        <note>Text: sort by Rating (worst rated first)</note>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>sort.rating.desc</source>
+        <target>Classement (les meilleurs en premier)</target>
+        <note>Text: sort by Rating (best rated first)</note>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>content.filter</source>
+        <target>Classer par</target>
+        <note>Text: sort on</note>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>recentnews</source>
+        <target>Actualités</target>
+        <note>Text: recent news</note>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>experiences</source>
+        <target>Témoignages</target>
+        <note>Text: experiences</note>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>moreexperienceds</source>
+        <target>Plus de témoignages</target>
+        <note>Button: more experiences</note>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>news.more</source>
+        <target>Plus d'actualités</target>
+        <note>Button: more news</note>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>appreciation</source>
+        <target>Classement</target>
+        <note>Text: Appreciation</note>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>appreciations</source>
+        <target>Classements</target>
+        <note>Text: Appreciations</note>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>appreciation.yourRate</source>
+        <target>Votre note</target>
+        <note>Text: Your rating</note>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>appreciation.rate</source>
+        <target>Notez cet article</target>
+        <note>Text: Rate</note>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>themes.detail</source>
+        <target>Thème</target>
+        <note>Text: Theme detail</note>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>themes.countries</source>
+        <target>Pays sur ce thème</target>
+        <note>Text: Countries of theme</note>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>searchplaceholder</source>
+        <target>Pays, région ou ville.........</target>
+        <note>Text: searchinput place holder</note>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>search</source>
+        <target>Recherche</target>
+        <note>Button: search</note>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>orient.articles</source>
+        <target>Articles</target>
+        <note>Text: orient articles</note>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>moreexperiences</source>
+        <target>Plus d'expériences</target>
+        <note>Button: more experiences</note>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>countries</source>
+        <target>Choisissez votre destination</target>
+        <note>Text: countries</note>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>questions</source>
+        <target>Questions</target>
+        <note>Url/word: questions</note>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>question.post</source>
+        <target>Posez votre question</target>
+        <note>Text: post a question</note>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>question.thanks</source>
+        <target>Merci pour votre question. Connectez-vous sur votre boite de réception afin de confirmer pour envoyer votre question à nos experts.</target>
+        <note>Text: thanks for posting your question</note>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>form.subject</source>
+        <target>Titre</target>
+        <note>Form label: subject of question</note>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>form.category</source>
+        <target>Sujet</target>
+        <note>Form label: Category of question</note>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>form.question</source>
+        <target>Votre question</target>
+        <note>Form label: Your question</note>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>postquestion</source>
+        <target>Postez votre question</target>
+        <note>Button: post your question</note>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>news</source>
+        <target>Actualités</target>
+        <note>Url/Text: News</note>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>country.regions</source>
+        <target>Régions</target>
+        <note>Text: Regions of country</note>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>questions.ask</source>
+        <target>Posez une question</target>
+        <note>Text: ask a question</note>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>whyneeda2ndhome</source>
+        <target>Nos étapes pour traiter votre décision</target>
+        <note>Text:Why need a 2nd Home</note>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>phase.orientdescription</source>
+        <target>Informations générales sur l'achat d'une seconde maison.</target>
+        <note>Footer: Description of phase orient</note>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>phase.informdescription</source>
+        <target>Informations sur le pays qui vous intéresse</target>
+        <note>Footer: Description of phase inform</note>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>phase.advicedescription</source>
+        <target>Posez votre question à des professionnels et lisez les témoignages d'autres personnes</target>
+        <note>Footer: Description of phase advice</note>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>phase.finddescription</source>
+        <target>Trouvez votre seconde maison parmi notre large sélection</target>
+        <note>Footer: Description of phase find</note>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>mysecondhomedesription</source>
+        <target>Recherchez-vous une seconde maison, une propriété à l'étranger ou une maison de vacances ? Sur MySecondHome il y a une large sélection de maison, de propriétés à l'étranger et de maisons de vacances</target>
+        <note>Footer: My2ndHome description</note>
+      </trans-unit>
+      <trans-unit id="90">
+        <source>links</source>
+        <target>Liens</target>
+        <note>Footer menu: links</note>
+      </trans-unit>
+      <trans-unit id="91">
+        <source>newsletter</source>
+        <target>Newsletter</target>
+        <note>Text: Newsletter</note>
+      </trans-unit>
+      <trans-unit id="92">
+        <source>newsletterdescription</source>
+        <target>Les plus récentes informations sur les maisons, les offres, les bons conseils vous seront envoyer dans la Newsletter de MySecondHome. Inscrivez-vous gratuitement et nous vous aiderons à trouver votre seconde maison idéale. Inscrivez-vous gratuitement dès maintenant ! </target>
+        <note>Footer: Newsletter description</note>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>newslettersignupplaceholder</source>
+        <target>Abonnez-vous maintenant à la Newsletter...</target>
+        <note>Footer form input: newsletter signup placeholder</note>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>signup</source>
+        <target>Inscription</target>
+        <note>Button: signup</note>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>noscriptwarning</source>
+        <target>Pas de Javascript disponible</target>
+        <note>Text: no javascript available warning</note>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>menu.country</source>
+        <target>Pays</target>
+        <note>Menu button country</note>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>countries.popular</source>
+        <target>Pays populaires</target>
+        <note>Menu text: Popular countries</note>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>email.confirmcomment</source>
+        <target>Cliquez sur ce lien afin de confirmer votre question</target>
+        <note>Email text: confirm your comment</note>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>question</source>
+        <target>Question</target>
+        <note>Word: question</note>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>article</source>
+        <target>Article</target>
+        <note>Word: article</note>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>email.confirmquestion</source>
+        <target>Confirmer votre question en cliquant sur ce lien</target>
+        <note>Email text: confirm your question</note>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>url.subjectall</source>
+        <target>Tout</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>experiences about</source>
+        <target>Expériences à propos</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>url.subjectsearch</source>
+        <target>Recherche par sujet</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>message.noresults</source>
+        <target>Pas de résultat</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>comments.add</source>
+        <target>Ajouter un commentaire</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>comments.post</source>
+        <target>Placer votre commentaire</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>text.thanksforrating</source>
+        <target>Merci pour votre note.</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>text.moreimages</source>
+        <target>Plus d'images</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>url.login</source>
+        <target>connexion</target>
+        <note>URL: login</note>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>url.logout</source>
+        <target>deconnexion</target>
+        <note>URL: logout</note>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>url.chooseCountry</source>
+        <target>Choisir un pays</target>
+        <note>URL: Choose country</note>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>url.phaseOrient</source>
+        <target>orienter</target>
+        <note>URL: Orientate</note>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>url.themes</source>
+        <target>Themes</target>
+        <note>URL: Themes</note>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>url.phaseInform</source>
+        <target>informer</target>
+        <note>URL: Inform</note>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>url.buyhouse</source>
+        <target>immobilier</target>
+        <note>URL: Buy house </note>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>url.regions</source>
+        <target>Regions</target>
+        <note>URL: Regions</note>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>url.phaseAdvice</source>
+        <target>Advice testimonial</target>
+        <note>URL: Advice</note>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>url.questionandanswers</source>
+        <target>Question Reponse</target>
+        <note>URL: Questions and Answers</note>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>url.experiences</source>
+        <target>Temoignages</target>
+        <note>URL: Experiences</note>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>url.news</source>
+        <target>Actualites</target>
+        <note>URL: News</note>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>url.askquestion</source>
+        <target>Poser une question</target>
+        <note>URL: Ask question</note>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>url.phaseFind</source>
+        <target>maison a vendre</target>
+        <note>URL: Find</note>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>title.findyoursecondhome</source>
+        <target>Trouver votre seconde maison</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source>text.findyoursecondhomeoutof</source>
+        <target>Une offre de </target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>in</source>
+        <target>dans</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>filter.minprice</source>
+        <target>minimum</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>filter.maxprice</source>
+        <target>maximum</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>loggedin</source>
+        <target>Vous êtes connecté </target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source>logout</source>
+        <target>Déconnexion</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>login</source>
+        <target>Connexion</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>text.backtolist</source>
+        <target>Retour à l'aperçu</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>text.provideractivefrom</source>
+        <target>Actif à partir de </target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source>text.contactus</source>
+        <target>Contactez-nous</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>text.moreinfo</source>
+        <target>Nous sommes heureux d'aider</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source>text.rooms</source>
+        <target>Pièces</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>text.nothingfound</source>
+        <target>Pas de résultat</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>text.suggestRegion</source>
+        <target>Recherche pour cette région :</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>text.searchforpropertiesinregion</source>
+        <target>Rechercher des propriétés dans cette région</target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source>text.suggestCity</source>
+        <target>Recherche pour cette ville</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>text.searchforpropertiesincity</source>
+        <target>Rechercher des propriété dans cette ville</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source>text.eraseFilters</source>
+        <target>Effacer les filtres</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>text.propertiesFound</source>
+        <target>Résultat pour les propriétés</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>text.providersFound</source>
+        <target>Résultat pour les fournisseurs</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>text.developmentsFound</source>
+        <target>Résultats pour les projets</target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source>text.displayImages</source>
+        <target>Gallerie</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source>text.displayList</source>
+        <target>Liste</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>text.displayMapView</source>
+        <target>Carte</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>text.sorton</source>
+        <target>Classé par </target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>text.sortpriceasc</source>
+        <target>Prix (bas à élevé)</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>text.similarhomes</source>
+        <target>Voir également : </target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source>text.propertyfeatures</source>
+        <target>Caractéristiques</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>text.propertypartofdevelopment</source>
+        <target>Cette propriété fait partie d'un projet</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>text.seedevelopmentproject</source>
+        <target>Voir le projet</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>text.propertyvolume</source>
+        <target>Volume</target>
+      </trans-unit>
+      <trans-unit id="156">
+        <source>text.propertysurface</source>
+        <target>Surface</target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source>text.propertyroomcount</source>
+        <target>Nombre de pièces </target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source>text.propertybedroomscount</source>
+        <target>Nombre de chambres</target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source>text.propertybathroomscount</source>
+        <target>Nombre de salles de bain</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>text.homeDescription</source>
+        <target>Description</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>text.contactform</source>
+        <target>Nous sommes heureux d'aider</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source>text.thanksforcontactingus</source>
+        <target>Merci pour votre question. Nous vous répondrons aussi vite que possible. </target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source>text.contactusdescription</source>
+        <target>Entrez votre question ci-dessous</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source>form.phone</source>
+        <target>Numéro de téléphone</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>form.contactmessage</source>
+        <target>Votre question *</target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source>form.contactsend</source>
+        <target>Envoyer</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source>text.seeprovider</source>
+        <target>Voir notre profil</target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source>text.seephonenumber</source>
+        <target>Numéro de téléphone</target>
+      </trans-unit>
+      <trans-unit id="169">
+        <source>text.seeallproperties</source>
+        <target>Voir toutes les propriétés</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>text.addasfavorite</source>
+        <target>Ajouter dans les favoris</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>text.lastseen</source>
+        <target>Dernière consultation sur : </target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source>text.viewmoredevelopments</source>
+        <target>Plus</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source>title.providers</source>
+        <target>Fournisseurs</target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source>text.my2ndhomehas</source>
+        <target>Total</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source>text.providers</source>
+        <target>fournisseurs</target>
+      </trans-unit>
+      <trans-unit id="176">
+        <source>text.seeallproviders</source>
+        <target>Voir tous les fournisseurs</target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source>text.propertyresults</source>
+        <target>Résultats</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>text.yourselection</source>
+        <target>Votre sélection</target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source>text.favorites</source>
+        <target>Vos favoris</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source>text.viewmoreproperties</source>
+        <target>Voir plus</target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source>text.refineAll</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="182">
+        <source>text.yourSelection</source>
+        <target>Votre sélection</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source>text.searchLocation</source>
+        <target>Rechercher une adresse</target>
+      </trans-unit>
+      <trans-unit id="184">
+        <source>text.filterConstructionType</source>
+        <target>Type de construction</target>
+      </trans-unit>
+      <trans-unit id="185">
+        <source>filter.development_existing</source>
+        <target>Construction existante</target>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>filter.development_newlybuilt</source>
+        <target>Nouvelle construction</target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>text.filterRegion</source>
+        <target>Région</target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>text.filterprice</source>
+        <target>Prix</target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>text.filtersurface</source>
+        <target>Surface</target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>text.filterrooms</source>
+        <target>Nombre de pièces</target>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>text.filtertype</source>
+        <target>Type de propriété</target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>text.settledin</source>
+        <target>Situé à </target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>text.property</source>
+        <target>Propriété</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>text.properties</source>
+        <target>Propriétés</target>
+      </trans-unit>
+      <trans-unit id="195">
+        <source>text.providersfound</source>
+        <target>Résultat pour les propriétés</target>
+      </trans-unit>
+      <trans-unit id="196">
+        <source>developments</source>
+        <target>Projets</target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>text.seealldevelopments</source>
+        <target>Voir tous les projets</target>
+      </trans-unit>
+      <trans-unit id="198">
+        <source>subject.regions</source>
+        <target>Régions</target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>articlecomment</source>
+        <target>commenter</target>
+      </trans-unit>
+      <trans-unit id="200">
+        <source>articlecomments</source>
+        <target>commentaires</target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>comment_article</source>
+        <target>commenter</target>
+      </trans-unit>
+      <trans-unit id="202">
+        <source>comments_article</source>
+        <target>commentaires</target>
+      </trans-unit>
+      <trans-unit id="203">
+        <source>relatedexperiences</source>
+        <target>également consultés</target>
+      </trans-unit>
+      <trans-unit id="204">
+        <source>comment_question</source>
+        <target>Répondre</target>
+      </trans-unit>
+      <trans-unit id="205">
+        <source>comments_question</source>
+        <target>Réponses</target>
+      </trans-unit>
+      <trans-unit id="206">
+        <source>url.developments</source>
+        <target>Nouvelles propriétés</target>
+      </trans-unit>
+      <trans-unit id="207">
+        <source>url.providers</source>
+        <target>fournisseurs</target>
+      </trans-unit>
+      <trans-unit id="208">
+        <source>url.properties</source>
+        <target>propriétés</target>
+      </trans-unit>
+      <trans-unit id="209">
+        <source>text.searchforpropertiesincountry</source>
+        <target>Rechercher des propriétés dans ce pays</target>
+      </trans-unit>
+      <trans-unit id="210">
+        <source>text.homepagesearchcountries</source>
+        <target>Pays</target>
+      </trans-unit>
+      <trans-unit id="211">
+        <source>filter.development</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="212">
+        <source>filter.provider</source>
+        <target>Toutes les propriétés de : </target>
+      </trans-unit>
+      <trans-unit id="213">
+        <source>text.uniquesellingpoints</source>
+        <target>Nos seuls points de vente : </target>
+      </trans-unit>
+      <trans-unit id="214">
+        <source>text.providerDescription</source>
+        <target>à propos de nous</target>
+      </trans-unit>
+      <trans-unit id="215">
+        <source>text.propertiesofproviderin</source>
+        <target>Nos propriétés à </target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>text.totalofferforprovider</source>
+        <target>Offre totale</target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>text.in</source>
+        <target>dans</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>text.is</source>
+        <target>est</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>text.propertyFound</source>
+        <target>Résultat pour les proripétés</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>text.providerFound</source>
+        <target>Résultat pour les fournisseurs</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>text.developmentFound</source>
+        <target>Nouvelle propriété trouvée</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>text.favoriteProperties</source>
+        <target>Propriétés favorites</target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>text.favoriteProviders</source>
+        <target>fournisseur favori</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>text.favoriteDevelopments</source>
+        <target>nouveau fournisseur favori</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>text.favoriteProperty</source>
+        <target>propriété favorite</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>text.favoriteProvider</source>
+        <target>fournisseur favori</target>
+      </trans-unit>
+      <trans-unit id="227">
+        <source>text.favoriteDevelopment</source>
+        <target>nouvelle propriété favorite</target>
+      </trans-unit>
+      <trans-unit id="228">
+        <source>text.sortpricedesc</source>
+        <target>Prix (bas à élevé)</target>
+      </trans-unit>
+      <trans-unit id="229">
+        <source>see-floormap</source>
+        <target>Carte vue du sol</target>
+      </trans-unit>
+      <trans-unit id="230">
+        <source>see-brochure</source>
+        <target>Voir la brochure</target>
+      </trans-unit>
+      <trans-unit id="231">
+        <source>text.enlargemap</source>
+        <target>Carte</target>
+      </trans-unit>
+      <trans-unit id="232">
+        <source>text.streetview</source>
+        <target>vue de la rue </target>
+      </trans-unit>
+      <trans-unit id="233">
+        <source>text.shrinkmap</source>
+        <target>rétrécir</target>
+      </trans-unit>
+      <trans-unit id="234">
+        <source>text.pricefrom</source>
+        <target>Prix à partir de </target>
+      </trans-unit>
+      <trans-unit id="235">
+        <source>text.priceto</source>
+        <target>Prix jusqu'à </target>
+      </trans-unit>
+      <trans-unit id="236">
+        <source>text.seefloormap</source>
+        <target>Carte vue du sol </target>
+      </trans-unit>
+      <trans-unit id="237">
+        <source>text.projectDescription</source>
+        <target>Description</target>
+      </trans-unit>
+      <trans-unit id="238">
+        <source>text.propertiesofdevelopmentin</source>
+        <target>Ces propriétés appartiennent à : </target>
+      </trans-unit>
+      <trans-unit id="239">
+        <source>text.totalofferfordevelopment</source>
+        <target>Nombre de propriétés dans ce projet : </target>
+      </trans-unit>
+      <trans-unit id="240">
+        <source>text.viewmoreproviders</source>
+        <target>plus de fournisseurs</target>
+      </trans-unit>
+      <trans-unit id="241">
+        <source>text.suggestCountry</source>
+        <target>Recherchez vous dans ce pays ? </target>
+      </trans-unit>
+      <trans-unit id="242">
+        <source>title.developmentResults</source>
+        <target>Pas de résultat </target>
+      </trans-unit>
+      <trans-unit id="243">
+        <source>message.noarticleresults</source>
+        <target>Pas de résultat </target>
+      </trans-unit>
+      <trans-unit id="244">
+        <source>text.question.postDescription</source>
+        <target>Votre question a été posée</target>
+      </trans-unit>
+      <trans-unit id="245">
+        <source>followuson</source>
+        <target>Suivez-vous sur : </target>
+      </trans-unit>
+      <trans-unit id="246">
+        <source>text.propertiesbyregion</source>
+        <target>Propriété à : </target>
+      </trans-unit>
+      <trans-unit id="247">
+        <source>text.seepropertiesofregion</source>
+        <target>Voir les propriétés à : </target>
+      </trans-unit>
+      <trans-unit id="248">
+        <source>text.propertiesbytype</source>
+        <target>Type de propriété : </target>
+      </trans-unit>
+      <trans-unit id="249">
+        <source>text.seepropertiesoftype</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="250">
+        <source>text.propertiesbyprice</source>
+        <target>Prix : </target>
+      </trans-unit>
+      <trans-unit id="251">
+        <source>text.seepropertiesofpricelessthen</source>
+        <target>Propriété jusqu'à </target>
+      </trans-unit>
+      <trans-unit id="252">
+        <source>text.nonewsavailable</source>
+        <target>Obtenez plus d'informations pour acheter une seconde maison ici </target>
+      </trans-unit>
+      <trans-unit id="253">
+        <source>text.seeallpropertiesin</source>
+        <target>Toutes les propriétés à : </target>
+      </trans-unit>
+      <trans-unit id="254">
+        <source>text.seealldevelopmentsin</source>
+        <target>Tous les projets à </target>
+      </trans-unit>
+      <trans-unit id="255">
+        <source>text.seeallprovidersin</source>
+        <target>Tous les fournisseurs à </target>
+      </trans-unit>
+      <trans-unit id="256">
+        <source>Required.</source>
+        <target>Champ est obligatoire </target>
+        <note>Form: error message, field is required</note>
+      </trans-unit>
+      <trans-unit id="257">
+        <source>Invalid.</source>
+        <target>Champ invalide </target>
+        <note>Form: error message, field is invalid</note>
+      </trans-unit>
+      <trans-unit id="258">
+        <source>menu.seeallcountries</source>
+        <target>Tous les pays </target>
+      </trans-unit>
+      <trans-unit id="259">
+        <source>text.buypropertyin</source>
+        <target>Acheter une propriété à </target>
+      </trans-unit>
+      <trans-unit id="260">
+        <source>text.propertyresultsin</source>
+        <target>Propriété à vendre à </target>
+      </trans-unit>
+      <trans-unit id="261">
+        <source>text.nolessthan</source>
+        <target>De </target>
+      </trans-unit>
+      <trans-unit id="262">
+        <source>text.nomorethan</source>
+        <target>A</target>
+      </trans-unit>
+      <trans-unit id="263">
+        <source>text.propertyaddedasfavorite</source>
+        <target>Propriété ajoutée dans les favoris </target>
+      </trans-unit>
+      <trans-unit id="264">
+        <source>text.propertyremovedasfavorite</source>
+        <target>Propriété retirée des favoris </target>
+      </trans-unit>
+      <trans-unit id="265">
+        <source>text.search_article_placeholder</source>
+        <target>Rechercher</target>
+      </trans-unit>
+      <trans-unit id="266">
+        <source>text.search_question_placeholder</source>
+        <target>Rechercher</target>
+      </trans-unit>
+      <trans-unit id="267">
+        <source>text.sortcreatedatdesc</source>
+        <target>Les plus récents en premier</target>
+      </trans-unit>
+      <trans-unit id="268">
+        <source>email.viewquestion</source>
+        <target>Voir la question</target>
+      </trans-unit>
+      <trans-unit id="269">
+        <source>title.propertiesin</source>
+        <target>Propriétés à </target>
+      </trans-unit>
+      <trans-unit id="270">
+        <source>title.providersin</source>
+        <target>Fournisseurs à </target>
+      </trans-unit>
+      <trans-unit id="271">
+        <source>title.developmentsin</source>
+        <target>Projets à</target>
+      </trans-unit>
+      <trans-unit id="272">
+        <source>title.ouroffer</source>
+        <target>Completer l'offre</target>
+      </trans-unit>
+      <trans-unit id="273">
+        <source>form.option.available</source>
+        <target>à vendre </target>
+      </trans-unit>
+      <trans-unit id="274">
+        <source>form.option.soldunderconditions</source>
+        <target>Vendu sous condition</target>
+      </trans-unit>
+      <trans-unit id="275">
+        <source>form.option.sold</source>
+        <target>Vendu </target>
+      </trans-unit>
+      <trans-unit id="276">
+        <source>form.option.no</source>
+        <target>Non</target>
+      </trans-unit>
+      <trans-unit id="277">
+        <source>form.option.yes</source>
+        <target>Oui</target>
+      </trans-unit>
+      <trans-unit id="278">
+        <source>form.option.excellent</source>
+        <target>Excellent</target>
+      </trans-unit>
+      <trans-unit id="279">
+        <source>form.option.good</source>
+        <target>Bon</target>
+      </trans-unit>
+      <trans-unit id="280">
+        <source>form.option.average</source>
+        <target>Dans la moyenne </target>
+      </trans-unit>
+      <trans-unit id="281">
+        <source>form.option.bad</source>
+        <target>Mauvais</target>
+      </trans-unit>
+      <trans-unit id="282">
+        <source>form.option.unknown</source>
+        <target>Inconnu</target>
+      </trans-unit>
+      <trans-unit id="283">
+        <source>form.option.excellentchoice</source>
+        <target>Excellent</target>
+      </trans-unit>
+      <trans-unit id="284">
+        <source>form.option.goodchoice</source>
+        <target>Bon</target>
+      </trans-unit>
+      <trans-unit id="285">
+        <source>form.option.limitedchoice</source>
+        <target>Limité</target>
+      </trans-unit>
+      <trans-unit id="286">
+        <source>form.option.none</source>
+        <target>rien </target>
+      </trans-unit>
+      <trans-unit id="287">
+        <source>portal.formlabel.isdevelopment</source>
+        <target>Projet ?</target>
+      </trans-unit>
+      <trans-unit id="288">
+        <source>portal.formlabel.developmentproject</source>
+        <target>Choisir un projet</target>
+      </trans-unit>
+      <trans-unit id="289">
+        <source>portal.formlabel.address1</source>
+        <target>Adresse</target>
+      </trans-unit>
+      <trans-unit id="290">
+        <source>portal.formlabel.address2</source>
+        <target>Adresse (code postal)</target>
+      </trans-unit>
+      <trans-unit id="291">
+        <source>portal.formlabel.country_id</source>
+        <target>Pays</target>
+      </trans-unit>
+      <trans-unit id="292">
+        <source>portal.formlabel.region_id</source>
+        <target>Région</target>
+      </trans-unit>
+      <trans-unit id="293">
+        <source>portal.formlabel.city_id</source>
+        <target>Ville</target>
+      </trans-unit>
+      <trans-unit id="294">
+        <source>portal.formlabel.price</source>
+        <target>Prix</target>
+      </trans-unit>
+      <trans-unit id="295">
+        <source>portal.formlabel.propertytype</source>
+        <target>Type</target>
+      </trans-unit>
+      <trans-unit id="296">
+        <source>portal.formlabel.volume</source>
+        <target>Volume</target>
+      </trans-unit>
+      <trans-unit id="297">
+        <source>portal.formlabel.surface</source>
+        <target>Surface</target>
+      </trans-unit>
+      <trans-unit id="298">
+        <source>portal.formlabel.rooms</source>
+        <target>Pièces</target>
+      </trans-unit>
+      <trans-unit id="299">
+        <source>portal.formlabel.bedrooms</source>
+        <target>Chambres</target>
+      </trans-unit>
+      <trans-unit id="300">
+        <source>portal.formlabel.bathrooms</source>
+        <target>Salles de bain </target>
+      </trans-unit>
+      <trans-unit id="301">
+        <source>portal.formlabel.furnished</source>
+        <target>Meublé</target>
+      </trans-unit>
+      <trans-unit id="302">
+        <source>portal.formlabel.constructionyear</source>
+        <target>Année de construction</target>
+      </trans-unit>
+      <trans-unit id="303">
+        <source>portal.formlabel.renovationyear</source>
+        <target>Année de rénovation</target>
+      </trans-unit>
+      <trans-unit id="304">
+        <source>portal.formlabel.isolation</source>
+        <target>Isolation</target>
+      </trans-unit>
+      <trans-unit id="305">
+        <source>portal.formlabel.doubleglass</source>
+        <target>Double vitrage</target>
+      </trans-unit>
+      <trans-unit id="306">
+        <source>portal.formlabel.interior_state</source>
+        <target>état de l'intérieur</target>
+      </trans-unit>
+      <trans-unit id="307">
+        <source>portal.formlabel.exterior_state</source>
+        <target>état de l'extérieur</target>
+      </trans-unit>
+      <trans-unit id="308">
+        <source>portal.formlabel.wheelchair</source>
+        <target>accessibilité en chaise roulante</target>
+      </trans-unit>
+      <trans-unit id="309">
+        <source>portal.formlabel.surrounding</source>
+        <target>Alentours</target>
+      </trans-unit>
+      <trans-unit id="310">
+        <source>portal.formlabel.view</source>
+        <target>Vue</target>
+      </trans-unit>
+      <trans-unit id="311">
+        <source>portal.formlabel.horeca</source>
+        <target>Horeca</target>
+      </trans-unit>
+      <trans-unit id="312">
+        <source>portal.formlabel.amusement</source>
+        <target>Loisirs</target>
+      </trans-unit>
+      <trans-unit id="313">
+        <source>portal.formlabel.email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="314">
+        <source>portal.formlabel.phone</source>
+        <target>Numéro de téléphone</target>
+      </trans-unit>
+      <trans-unit id="315">
+        <source>title.amysecondhomeaccount</source>
+        <target>Partenariat MySecondHome</target>
+      </trans-unit>
+      <trans-unit id="316">
+        <source>text.describemysecondhomeaccount</source>
+        <target>Bienvenue ! êtes vous également intéressé de devenir partenaire avec MySecondHome ? Créez votre compte et consultez nos packs ici. Si vous avez des questions, contactez-nous en remplissant notre fiche contact sur notre page de contact.</target>
+      </trans-unit>
+      <trans-unit id="317">
+        <source>formlabel.login.email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="318">
+        <source>formlabel.login.password</source>
+        <target>Mot de passe</target>
+      </trans-unit>
+      <trans-unit id="319">
+        <source>form.login</source>
+        <target>Indentifiant</target>
+      </trans-unit>
+      <trans-unit id="320">
+        <source>text.editProperty</source>
+        <target>Ajouter une propriété</target>
+      </trans-unit>
+      <trans-unit id="321">
+        <source>portal.form.isdevelopment</source>
+        <target>Projet ?</target>
+      </trans-unit>
+      <trans-unit id="322">
+        <source>portal.form.yes</source>
+        <target>Oui</target>
+      </trans-unit>
+      <trans-unit id="323">
+        <source>portal.form.address</source>
+        <target>Adresse</target>
+      </trans-unit>
+      <trans-unit id="324">
+        <source>portal.form.country</source>
+        <target>Pays</target>
+      </trans-unit>
+      <trans-unit id="325">
+        <source>portal.form.region</source>
+        <target>Région</target>
+      </trans-unit>
+      <trans-unit id="326">
+        <source>portal.form.city</source>
+        <target>Ville</target>
+      </trans-unit>
+      <trans-unit id="327">
+        <source>portal.form.data</source>
+        <target>Détails</target>
+      </trans-unit>
+      <trans-unit id="328">
+        <source>portal.form.condition</source>
+        <target>Condition</target>
+      </trans-unit>
+      <trans-unit id="329">
+        <source>portal.form.surroundingsinformation</source>
+        <target>Alentours</target>
+      </trans-unit>
+      <trans-unit id="330">
+        <source>portal.form.contactinformation</source>
+        <target>Information de contact</target>
+      </trans-unit>
+      <trans-unit id="331">
+        <source>portal.form.propertydescription</source>
+        <target>Description</target>
+      </trans-unit>
+      <trans-unit id="332">
+        <source>portal.form.language</source>
+        <target>Langues (ajoutez vos langues, l'anglais est requis)</target>
+      </trans-unit>
+      <trans-unit id="333">
+        <source>text.wehelpyoutranslate</source>
+        <target>Traduire ? Cliquez ici</target>
+      </trans-unit>
+      <trans-unit id="334">
+        <source>portal.form.floormap</source>
+        <target>Carte</target>
+      </trans-unit>
+      <trans-unit id="335">
+        <source>portal.form.pictures</source>
+        <target>Photos</target>
+      </trans-unit>
+      <trans-unit id="336">
+        <source>portal.form.saveproperty</source>
+        <target>Sauvegarder</target>
+      </trans-unit>
+      <trans-unit id="337">
+        <source>portal.form.deleteproperty</source>
+        <target>Effacer </target>
+      </trans-unit>
+      <trans-unit id="338">
+        <source>portal.form.deactivateproperty</source>
+        <target>Désactiver </target>
+      </trans-unit>
+      <trans-unit id="339">
+        <source>portal.form.15minutewarning</source>
+        <target>Cela peut prendre jusqu'à 15 minutes avant que vos propriétés ou vos modifications soient visibles sur le site internet.</target>
+      </trans-unit>
+      <trans-unit id="340">
+        <source>portal.conversions</source>
+        <target>Messages</target>
+      </trans-unit>
+      <trans-unit id="341">
+        <source>portal.conversion.name</source>
+        <target>Nom</target>
+      </trans-unit>
+      <trans-unit id="342">
+        <source>portal.conversion.concerns</source>
+        <target>Sujet</target>
+      </trans-unit>
+      <trans-unit id="343">
+        <source>portal.conversion.price</source>
+        <target>Prix</target>
+      </trans-unit>
+      <trans-unit id="344">
+        <source>portal.conversion.date</source>
+        <target>Date</target>
+      </trans-unit>
+      <trans-unit id="345">
+        <source>portal.conversion.actions</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="346">
+        <source>portal.conversation.property</source>
+        <target>Propriété</target>
+      </trans-unit>
+      <trans-unit id="347">
+        <source>portal.conversation.development</source>
+        <target>Projet</target>
+      </trans-unit>
+      <trans-unit id="348">
+        <source>portal.conversation.yourself</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="349">
+        <source>portal.conversion.show</source>
+        <target>Vue</target>
+      </trans-unit>
+      <trans-unit id="350">
+        <source>portal.conversion.delete</source>
+        <target>Effacer</target>
+      </trans-unit>
+      <trans-unit id="351">
+        <source>portal.title.recentonlineproperties</source>
+        <target>Propriété en ligne</target>
+      </trans-unit>
+      <trans-unit id="352">
+        <source>portal.addproperty</source>
+        <target>Ajouter une proriété</target>
+      </trans-unit>
+      <trans-unit id="353">
+        <source>portal.title.recentofflineproperties</source>
+        <target>Nouvelles propriétés hors ligne</target>
+      </trans-unit>
+      <trans-unit id="354">
+        <source>portal.title.recentconversions</source>
+        <target>Nouveaux messages</target>
+      </trans-unit>
+      <trans-unit id="355">
+        <source>portal.showallconversions</source>
+        <target>Afficher tous les messages</target>
+      </trans-unit>
+      <trans-unit id="356">
+        <source>portal.title.recentproperties</source>
+        <target>Les dernières propriétés mises en ligne</target>
+      </trans-unit>
+      <trans-unit id="357">
+        <source>portal.showallproperties</source>
+        <target>Voir toutes les propriétés</target>
+      </trans-unit>
+      <trans-unit id="358">
+        <source>portal.title.recentdevelopments</source>
+        <target>Les derniers projets mis en ligne </target>
+      </trans-unit>
+      <trans-unit id="359">
+        <source>portal.showalldevelopments</source>
+        <target>Afficher tous les projets</target>
+      </trans-unit>
+      <trans-unit id="360">
+        <source>portal.adddevelopment</source>
+        <target>Ajouter un projet</target>
+      </trans-unit>
+      <trans-unit id="361">
+        <source>text.editDevelopment</source>
+        <target>Modifier</target>
+      </trans-unit>
+      <trans-unit id="362">
+        <source>uploader.select.files</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="363">
+        <source>uploader.add.files.queue.click.start</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="364">
+        <source>uploader.filename</source>
+        <target>Nom du fichier</target>
+      </trans-unit>
+      <trans-unit id="365">
+        <source>uploader.status</source>
+        <target>Statut</target>
+      </trans-unit>
+      <trans-unit id="366">
+        <source>uploader.size</source>
+        <target>Taille </target>
+      </trans-unit>
+      <trans-unit id="367">
+        <source>uploader.add.files</source>
+        <target>Ajouter une image</target>
+      </trans-unit>
+      <trans-unit id="368">
+        <source>uploader.start.upload</source>
+        <target>Démarrage du téléchargement</target>
+      </trans-unit>
+      <trans-unit id="369">
+        <source>uploader.stop.current.upload</source>
+        <target>Arrêter le téléchargement</target>
+      </trans-unit>
+      <trans-unit id="370">
+        <source>uploader.start.uploading.queue</source>
+        <target>Commencer le téléchargement</target>
+      </trans-unit>
+      <trans-unit id="371">
+        <source>uploader.drag.files.here</source>
+        <target>Glissez les images dans cette case</target>
+      </trans-unit>
+      <trans-unit id="372">
+        <source>portal.conversiondetail</source>
+        <target>Détails </target>
+      </trans-unit>
+      <trans-unit id="373">
+        <source>portal.backtooverview</source>
+        <target>Retour à l'aperçu</target>
+      </trans-unit>
+      <trans-unit id="374">
+        <source>portal.conversion.email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="375">
+        <source>portal.conversion.phone</source>
+        <target>Numéro de téléphone</target>
+      </trans-unit>
+      <trans-unit id="376">
+        <source>portal.conversion.message</source>
+        <target>Message</target>
+      </trans-unit>
+      <trans-unit id="377">
+        <source>portal.development.edit</source>
+        <target>Modifier le projet</target>
+      </trans-unit>
+      <trans-unit id="378">
+        <source>portal.addedon</source>
+        <target>Ajouté sur </target>
+      </trans-unit>
+      <trans-unit id="379">
+        <source>title.portaloverview</source>
+        <target>Aperçu</target>
+      </trans-unit>
+      <trans-unit id="380">
+        <source>portal.properties</source>
+        <target>Propriétés</target>
+      </trans-unit>
+      <trans-unit id="381">
+        <source>portal.developments</source>
+        <target>Projets</target>
+      </trans-unit>
+      <trans-unit id="382">
+        <source>portal.package</source>
+        <target>Pack</target>
+      </trans-unit>
+      <trans-unit id="383">
+        <source>portal.add</source>
+        <target>Ajouter</target>
+      </trans-unit>
+      <trans-unit id="384">
+        <source>portal.credits</source>
+        <target>Crédits</target>
+      </trans-unit>
+      <trans-unit id="385">
+        <source>portal.property.edit</source>
+        <target>Modifier</target>
+      </trans-unit>
+      <trans-unit id="386">
+        <source>portal.overview</source>
+        <target>Aperçu</target>
+      </trans-unit>
+      <trans-unit id="387">
+        <source>menu.logout</source>
+        <target>Déconnexion</target>
+      </trans-unit>
+      <trans-unit id="388">
+        <source>portal.menu.properties</source>
+        <target>Mes propriétés</target>
+      </trans-unit>
+      <trans-unit id="389">
+        <source>portal.menu.developments</source>
+        <target>Mes projets</target>
+      </trans-unit>
+      <trans-unit id="390">
+        <source>portal.menu.conversions</source>
+        <target>Mes messages</target>
+      </trans-unit>
+      <trans-unit id="391">
+        <source>portal.menu.statistics</source>
+        <target>Statistiques</target>
+      </trans-unit>
+      <trans-unit id="392">
+        <source>portal.menu.portal_overview</source>
+        <target>Aperçus</target>
+      </trans-unit>
+      <trans-unit id="393">
+        <source>uploader.maxsizepdf</source>
+        <target>Taille maximum</target>
+      </trans-unit>
+      <trans-unit id="394">
+        <source>uploader.imageformats</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="395">
+        <source>uploader.maxsizepictures</source>
+        <target>Taille maximum par image</target>
+      </trans-unit>
+      <trans-unit id="396">
+        <source>portal.form.pictures.order</source>
+        <target>Images en ligne</target>
+      </trans-unit>
+      <trans-unit id="397">
+        <source>upload.view</source>
+        <target>Voir </target>
+      </trans-unit>
+      <trans-unit id="398">
+        <source>upload.delete</source>
+        <target>Effacer</target>
+      </trans-unit>
+      <trans-unit id="399">
+        <source>text.addProperty</source>
+        <target>Ajouter des propriétés</target>
+      </trans-unit>
+      <trans-unit id="400">
+        <source>uploader.picturerequired</source>
+        <target>Image requise</target>
+      </trans-unit>
+      <trans-unit id="401">
+        <source>portal.form.developmentdescription</source>
+        <target>Description</target>
+      </trans-unit>
+      <trans-unit id="402">
+        <source>portal.formlabel.developmenttitle</source>
+        <target>Nom du projet</target>
+      </trans-unit>
+      <trans-unit id="403">
+        <source>portal.form.usps</source>
+        <target>points importants de ce projet</target>
+      </trans-unit>
+      <trans-unit id="404">
+        <source>portal.form.promovideo</source>
+        <target>Ajouter une vidéo</target>
+      </trans-unit>
+      <trans-unit id="405">
+        <source>portal.form.pdfmap</source>
+        <target>Ajouter une carte</target>
+      </trans-unit>
+      <trans-unit id="406">
+        <source>portal.form.surroundings</source>
+        <target>Alentours</target>
+      </trans-unit>
+      <trans-unit id="407">
+        <source>portal.form.savedevelopment</source>
+        <target>Sauvegarder</target>
+      </trans-unit>
+      <trans-unit id="408">
+        <source>portal.form.deletedevelopment</source>
+        <target>Effacer</target>
+      </trans-unit>
+      <trans-unit id="409">
+        <source>text.propertyprice</source>
+        <target>Prix</target>
+      </trans-unit>
+      <trans-unit id="410">
+        <source>portal.menu.website</source>
+        <target>Visiter le site internet</target>
+      </trans-unit>
+      <trans-unit id="411">
+        <source>portal.menu.overview</source>
+        <target>Mon profil</target>
+      </trans-unit>
+      <trans-unit id="412">
+        <source>portal.notification.developmentadded</source>
+        <target>Propriété ajoutée</target>
+      </trans-unit>
+      <trans-unit id="413">
+        <source>notice.errorsinform</source>
+        <target>Une erreur est survenue</target>
+      </trans-unit>
+      <trans-unit id="414">
+        <source>text.addDevelopment</source>
+        <target>Ajouter un projet</target>
+      </trans-unit>
+      <trans-unit id="415">
+        <source>portal.notification.developmentsaved</source>
+        <target>Le développement a été sauvegardé</target>
+      </trans-unit>
+      <trans-unit id="416">
+        <source>portal.notification.propertyadded</source>
+        <target>La propriété a été ajoutée</target>
+      </trans-unit>
+      <trans-unit id="417">
+        <source>portal.notification.propertysaved</source>
+        <target>La propriété a été sauvegardée</target>
+      </trans-unit>
+      <trans-unit id="418">
+        <source>portal.notification.maxonlinepropertiesinsubscriptionreached</source>
+        <target>Vous avez atteint votre nombre maximum de propriétés en ligne</target>
+      </trans-unit>
+      <trans-unit id="419">
+        <source>portal.notification.propertyactivated</source>
+        <target>La propriété a été activée</target>
+      </trans-unit>
+      <trans-unit id="420">
+        <source>portal.notification.propertyallreadyactivated</source>
+        <target>Toutes les propriétés actives </target>
+      </trans-unit>
+      <trans-unit id="421">
+        <source>portal.notification.propertydeactivated</source>
+        <target>La propriété a été désactivée </target>
+      </trans-unit>
+      <trans-unit id="422">
+        <source>portal.form.activateproperty</source>
+        <target>Activer cette propriété</target>
+      </trans-unit>
+      <trans-unit id="423">
+        <source>portal.notice.noconversionsavailable</source>
+        <target>Pas de message </target>
+      </trans-unit>
+      <trans-unit id="424">
+        <source>portal.conversion.confirm.delete</source>
+        <target>Effacer ce message ?</target>
+      </trans-unit>
+      <trans-unit id="425">
+        <source>text.developmenthasnopropertiesyet</source>
+        <target>Ce projet ne contient pas encore de propriété</target>
+      </trans-unit>
+      <trans-unit id="426">
+        <source>portal.property.confirm.delete</source>
+        <target>Effacer cette propriété ?</target>
+      </trans-unit>
+      <trans-unit id="427">
+        <source>portal.development.confirm.delete</source>
+        <target>Effacer ce projet ?</target>
+      </trans-unit>
+      <trans-unit id="428">
+        <source>portal.notice.noonlineproperties</source>
+        <target>Vous n'avez pas de propriété en ligne, activez vos propriétés</target>
+      </trans-unit>
+      <trans-unit id="429">
+        <source>portal.notice.noofflineproperties</source>
+        <target>Vous n'avez pas de propriété hors ligne</target>
+      </trans-unit>
+      <trans-unit id="430">
+        <source>portal.notice.nodevelopments</source>
+        <target>Vous n'avez pas ajouté de projet</target>
+      </trans-unit>
+      <trans-unit id="431">
+        <source>portal.notice.recentofflineproperties</source>
+        <target>Propriétés hors ligne</target>
+      </trans-unit>
+      <trans-unit id="432">
+        <source>portal.notification.propertyaddedbutnotactivatedduetomaxonlinepropertiesinsubscriptionreached</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="433">
+        <source>portal.notification.propertyaddedandactivated</source>
+        <target>Cette propriété est active</target>
+      </trans-unit>
+      <trans-unit id="434">
+        <source>portal.directlyactivateproperty</source>
+        <target>Activer cette propriété</target>
+      </trans-unit>
+      <trans-unit id="435">
+        <source>portal.formlabel.trialperiod</source>
+        <target>Période d'essai (pour les acheteurs)</target>
+      </trans-unit>
+      <trans-unit id="436">
+        <source>portal.formlabel.renting_allowed</source>
+        <target>Location autorisée ?</target>
+      </trans-unit>
+      <trans-unit id="437">
+        <source>portal.formlabel.max_renting_period</source>
+        <target>Période de location maximum</target>
+      </trans-unit>
+      <trans-unit id="438">
+        <source>portal.formlabel.rent_indication</source>
+        <target>Indication du prix (par semaine) </target>
+      </trans-unit>
+      <trans-unit id="439">
+        <source>portal.form.description.development</source>
+        <target>Cette propriété fait elle partie de l'un de vos projet mis en ligne ?</target>
+      </trans-unit>
+      <trans-unit id="440">
+        <source>portal.form.description.address</source>
+        <target>Ajouter une adresse pour cette propriété</target>
+      </trans-unit>
+      <trans-unit id="441">
+        <source>portal.form.description.data</source>
+        <target>Ajouter des détails pour cette propriété</target>
+      </trans-unit>
+      <trans-unit id="442">
+        <source>portal.form.rentaldata</source>
+        <target>Données de mise en location</target>
+      </trans-unit>
+      <trans-unit id="443">
+        <source>portal.form.description.rentaldata</source>
+        <target>Quelles informations pouvez-vous donner en ce qui concerne la mise en location de cette propriété ?</target>
+      </trans-unit>
+      <trans-unit id="444">
+        <source>portal.form.description.condition</source>
+        <target>Quelle est la condition de cette propriété ?</target>
+      </trans-unit>
+      <trans-unit id="445">
+        <source>portal.form.description.surrounding</source>
+        <target>Ajouter des détails concernant les alentours</target>
+      </trans-unit>
+      <trans-unit id="446">
+        <source>portal.form.description.contact</source>
+        <target>Si les détails de contact pour cette propriété sont différents, vous pouvez les ajouter ci-dessous. Si non, laissez la case vide.</target>
+      </trans-unit>
+      <trans-unit id="447">
+        <source>portal.form.description.description</source>
+        <target>IMPORTANT: vous pouvez ajouter 4 langues en utilisant la dropbox ci-dessous. L'anglais est requis. Si vous ne mentionnez que l'anglais, il sera utilisé pour tous les sites internet.</target>
+      </trans-unit>
+      <trans-unit id="448">
+        <source>portal.form.description.floormap</source>
+        <target>Ajouter seulement des fichiers PDF</target>
+      </trans-unit>
+      <trans-unit id="449">
+        <source>portal.form.description.pictures</source>
+        <target>Vous pouvez ajouter ou glisser plus de photos en une fois</target>
+      </trans-unit>
+      <trans-unit id="450">
+        <source>portal.form.description.pictureorder</source>
+        <target>La première image sera l'image en couverture. Vous pouvez modifier l'ordre des images en les repositionnant à l'aide de votre souris. </target>
+      </trans-unit>
+      <trans-unit id="451">
+        <source>portal.formlabel.company_name</source>
+        <target>Nom de la société</target>
+      </trans-unit>
+      <trans-unit id="452">
+        <source>portal.formlabel.country</source>
+        <target>Pays</target>
+      </trans-unit>
+      <trans-unit id="453">
+        <source>portal.formlabel.region</source>
+        <target>Région</target>
+      </trans-unit>
+      <trans-unit id="454">
+        <source>portal.formlabel.city</source>
+        <target>Ville</target>
+      </trans-unit>
+      <trans-unit id="455">
+        <source>portal.formlabel.personal_email</source>
+        <target>Email (personnel)</target>
+      </trans-unit>
+      <trans-unit id="456">
+        <source>portal.formlabel.personal_firstname</source>
+        <target>Prénom</target>
+      </trans-unit>
+      <trans-unit id="457">
+        <source>portal.formlabel.personal_surname</source>
+        <target>Nom</target>
+      </trans-unit>
+      <trans-unit id="458">
+        <source>portal.formlabel.personal_function</source>
+        <target>Fonction (en anglais) </target>
+      </trans-unit>
+      <trans-unit id="459">
+        <source>portal.text.addnewcity</source>
+        <target>Ajouter une nouvelle ville</target>
+      </trans-unit>
+      <trans-unit id="460">
+        <source>portal.form.error.nocountryselected</source>
+        <target>Pas de pays sélectionné</target>
+      </trans-unit>
+      <trans-unit id="461">
+        <source>portal.form.error.noregionselected</source>
+        <target>Pas de région sélectionnée </target>
+      </trans-unit>
+      <trans-unit id="462">
+        <source>portal.form.error.nonewcitynamesupplied</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="463">
+        <source>portal.form.error.nocityselected</source>
+        <target>Pas de ville sélectionnée</target>
+      </trans-unit>
+      <trans-unit id="464">
+        <source>portal.form.error.emailadressinuse</source>
+        <target>Email déjà utilisé</target>
+      </trans-unit>
+      <trans-unit id="465">
+        <source>portal.text.addnewregion</source>
+        <target>Ajouter une nouvelle région</target>
+      </trans-unit>
+      <trans-unit id="466">
+        <source>portal.notification.selectpackagefirst</source>
+        <target>Sélectionner votre pack</target>
+      </trans-unit>
+      <trans-unit id="467">
+        <source>portal.notification.acceptthetermsandconditionsfirst</source>
+        <target>Accepter les termes et conditions</target>
+      </trans-unit>
+      <trans-unit id="468">
+        <source>portal.notification.creditsadded</source>
+        <target>Merci, vos crédits ont été ajouté.</target>
+      </trans-unit>
+      <trans-unit id="469">
+        <source>portal.notification.errorduringpaymenttryagain</source>
+        <target>Erreur de payement, réessayez</target>
+      </trans-unit>
+      <trans-unit id="470">
+        <source>portal.notification.paymentinprocess</source>
+        <target>Payement en cours</target>
+      </trans-unit>
+      <trans-unit id="471">
+        <source>portal.notification.buymorecreditsfirst</source>
+        <target>Désolé, vous ne possédez pas assez de crédits, achetez en d'abord</target>
+      </trans-unit>
+      <trans-unit id="472">
+        <source>portal.notification.propertyisnowtoprated</source>
+        <target>Cette propriété est maintenant dans les mieux notées.</target>
+      </trans-unit>
+      <trans-unit id="473">
+        <source>portal.notification.propertyisaddedtothenextnewsletter</source>
+        <target>Cette propriété a été ajoutée à la prochaine newsletter</target>
+      </trans-unit>
+      <trans-unit id="474">
+        <source>portal.text.upsellproperty</source>
+        <target>Plus de publicité pour cette propriété</target>
+      </trans-unit>
+      <trans-unit id="475">
+        <source>title.register.paymentupdate</source>
+        <target>Payement</target>
+      </trans-unit>
+      <trans-unit id="476">
+        <source>portal.register.paymentupdate</source>
+        <target>Mise à jour du payement</target>
+      </trans-unit>
+      <trans-unit id="477">
+        <source>portal.register.paymentsuccessinfo</source>
+        <target>Votre payement a été effectué et vous pouvez dès maintenant commencer à remplir votre profil et ajouter des propriétés. Si vous avez des questions, contactez-nous en cliquant sur l'icône contact ci-dessous.</target>
+      </trans-unit>
+      <trans-unit id="478">
+        <source>portal.register.paymentinprocessinfo</source>
+        <target>Votre payement est en cours. Patientez jusqu'à ce qu'il soit effectué. Si vous avez des questions, veuillez cliquer sur l'icône contact ci-dessous.</target>
+      </trans-unit>
+      <trans-unit id="479">
+        <source>portal.register.paymenterrorinfo</source>
+        <target>Désolé, votre payement a échoué, veuillez réessayer en cliquant ci-dessous. Si vous avez des questions, veuillez cliquer sur l'icône contact ci-dessous.</target>
+      </trans-unit>
+      <trans-unit id="480">
+        <source>portal.register.paymentcancelledinfo</source>
+        <target>Désolé, votre payement a été annulé, veuillez réessayer en cliquant sur le bouton ci-dessous. Si vous avez des questions contactez-nous en cliquant sur l'icône contact ci-dessous.</target>
+      </trans-unit>
+      <trans-unit id="481">
+        <source>title.registerStep2</source>
+        <target>étape 2 </target>
+      </trans-unit>
+      <trans-unit id="482">
+        <source>portal.text.step</source>
+        <target>étape</target>
+      </trans-unit>
+      <trans-unit id="483">
+        <source>portal.text.choosepackage</source>
+        <target>Choisissez votre pack</target>
+      </trans-unit>
+      <trans-unit id="484">
+        <source>portal.text.yourdata</source>
+        <target>Détails de contact </target>
+      </trans-unit>
+      <trans-unit id="485">
+        <source>portal.text.termsandconditions</source>
+        <target>Termes et conditions</target>
+      </trans-unit>
+      <trans-unit id="486">
+        <source>portal.text.submitandpay</source>
+        <target>Confirmer et acheter</target>
+      </trans-unit>
+      <trans-unit id="487">
+        <source>portal.description.yourdata</source>
+        <target>Remplissez les détails de votre société et vos détails personnels</target>
+      </trans-unit>
+      <trans-unit id="488">
+        <source>portal.text.companydata</source>
+        <target>Société</target>
+      </trans-unit>
+      <trans-unit id="489">
+        <source>portal.text.personaldata</source>
+        <target>Personne</target>
+      </trans-unit>
+      <trans-unit id="490">
+        <source>text.portal.registerstep2.description</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="491">
+        <source>portal.text.savedata</source>
+        <target>Sauvegarder</target>
+      </trans-unit>
+      <trans-unit id="492">
+        <source>title.registerStep4</source>
+        <target>étape 4 </target>
+      </trans-unit>
+      <trans-unit id="493">
+        <source>portal.description.submitandpay</source>
+        <target>Veuillez consulter toutes les informations avant de soumettre votre demande de partenariat.</target>
+      </trans-unit>
+      <trans-unit id="494">
+        <source>portal.text.checkyourdata</source>
+        <target>Consulter vos détails</target>
+      </trans-unit>
+      <trans-unit id="495">
+        <source>portal.text.alteryourdata</source>
+        <target>Modifier vos détails</target>
+      </trans-unit>
+      <trans-unit id="496">
+        <source>portal.text.payoff</source>
+        <target>Confirmer et acheter</target>
+      </trans-unit>
+      <trans-unit id="497">
+        <source>portal.description.payoff</source>
+        <target>Votre pack sera payé par acomptes mensuels. MySecondHome collabore avec toutes les banques de l'Union Européenne. Nous vous demandons de payer le premier mois maintenant et après que nous vous aurons facturé par transactions mensuelles automatiques.</target>
+      </trans-unit>
+      <trans-unit id="498">
+        <source>portal.text.package</source>
+        <target>Votre pack</target>
+      </trans-unit>
+      <trans-unit id="499">
+        <source>portal.text.paywith</source>
+        <target>Partenaires financiers</target>
+      </trans-unit>
+      <trans-unit id="500">
+        <source>title.portal.buycredits</source>
+        <target>Acheter des crédits</target>
+      </trans-unit>
+      <trans-unit id="501">
+        <source>portal.description.buycredits</source>
+        <target>Achetez des crédits pour offrir plus de publicité à vos propriétés. Grâce à ces crédits, vos propriétés sont prioritaires. Elles seront en haut de la liste de résultats lors d'une recherche reprenant leurs critères.</target>
+      </trans-unit>
+      <trans-unit id="502">
+        <source>portal.description.choosenumberofcredits</source>
+        <target>Choisissez le montant de crédits :</target>
+      </trans-unit>
+      <trans-unit id="503">
+        <source>text.portal.credits</source>
+        <target>crédits</target>
+      </trans-unit>
+      <trans-unit id="504">
+        <source>portal.text.upsellnewsletter</source>
+        <target>Newsletter</target>
+      </trans-unit>
+      <trans-unit id="505">
+        <source>portal.description.upsellnewsletter</source>
+        <target>Placez votre propriété dans la newsletter de MySecondHome et atteignez les 20.000 acheteurs potentiels.</target>
+      </trans-unit>
+      <trans-unit id="506">
+        <source>portal.text.upsellnewslettercosts</source>
+        <target>Coût par newsletter</target>
+      </trans-unit>
+      <trans-unit id="507">
+        <source>portal.text.credit</source>
+        <target>crédit</target>
+      </trans-unit>
+      <trans-unit id="508">
+        <source>portal.text.credit2</source>
+        <target>crédits</target>
+      </trans-unit>
+      <trans-unit id="509">
+        <source>portal.button.upsellnewsletter</source>
+        <target>Placer la propriété dans la newsletter</target>
+      </trans-unit>
+      <trans-unit id="510">
+        <source>portal.text.upselltoprated</source>
+        <target>Meilleure position</target>
+      </trans-unit>
+      <trans-unit id="511">
+        <source>portal.description.toprated</source>
+        <target>Placez votre propriété dans les spotlights. Votre propriété figurera en haut de la liste des résultats des recherches reprenant ses critères</target>
+      </trans-unit>
+      <trans-unit id="512">
+        <source>portal.text.upselltopratedcosts</source>
+        <target>Coût par mois</target>
+      </trans-unit>
+      <trans-unit id="513">
+        <source>portal.button.upselltoprated</source>
+        <target>Donnez à ma propriété cette "meilleure position"</target>
+      </trans-unit>
+      <trans-unit id="514">
+        <source>title.register.thanks</source>
+        <target>Merci de vous être inscrit</target>
+      </trans-unit>
+      <trans-unit id="515">
+        <source>portal.register.thanks</source>
+        <target>Nous allons vous transférer sur notre système de payement</target>
+      </trans-unit>
+      <trans-unit id="516">
+        <source>portal.register.thanksdescription</source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="517">
+        <source>title.registerStep1</source>
+        <target>étape 1</target>
+      </trans-unit>
+      <trans-unit id="518">
+        <source>portal.description.choosepackage</source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="519">
+        <source>portal.text.ourpackages</source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="520">
+        <source>portal.text.placements</source>
+        <target>propriétés</target>
+      </trans-unit>
+      <trans-unit id="521">
+        <source>portal.text.developments</source>
+        <target>projets</target>
+      </trans-unit>
+      <trans-unit id="522">
+        <source>portal.text.select</source>
+        <target>Selectionner</target>
+      </trans-unit>
+      <trans-unit id="523">
+        <source>title.portal.buycredits.payment</source>
+        <target>Nous allons vous transférer sur notre système de payement</target>
+      </trans-unit>
+      <trans-unit id="524">
+        <source>portal.description.buycredits.payment</source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="525">
+        <source>title.registerStep3</source>
+        <target>étape 3 </target>
+      </trans-unit>
+      <trans-unit id="526">
+        <source>portal.description.termsandconditions</source>
+        <target>Consultez d'abord nos termes et conditions avant d'achever votre profil.</target>
+      </trans-unit>
+      <trans-unit id="527">
+        <source>portal.text.accepttermsandconditions</source>
+        <target>Accepter</target>
+      </trans-unit>
+      <trans-unit id="528">
+        <source>portal.form.error.nonewregionnamesupplied</source>
+        <target>Ajouter le nom de la région (en anglais)</target>
+      </trans-unit>
+      <trans-unit id="529">
+        <source>portal.title.accounttypeprivate</source>
+        <target>Vendeur particulier</target>
+      </trans-unit>
+      <trans-unit id="530">
+        <source>portal.title.accounttypebusiness</source>
+        <target>Vendeur professionnel</target>
+      </trans-unit>
+      <trans-unit id="531">
+        <source>portal.stats.stat.displayed</source>
+        <target>Aperçu</target>
+      </trans-unit>
+      <trans-unit id="532">
+        <source>text.gotowebsite</source>
+        <target>Visiter le site internet</target>
+      </trans-unit>
+      <trans-unit id="533">
+        <source>text.propertytrial</source>
+        <target>Période d'essai (pour acheteurs)</target>
+      </trans-unit>
+      <trans-unit id="534">
+        <source>text.yes</source>
+        <target>Oui</target>
+      </trans-unit>
+      <trans-unit id="535">
+        <source>text.no</source>
+        <target>Non</target>
+      </trans-unit>
+      <trans-unit id="536">
+        <source>text.propertyrentingallowed</source>
+        <target>Location autorisée ?</target>
+      </trans-unit>
+      <trans-unit id="537">
+        <source>text.propertymaxrentingperiod</source>
+        <target>Durée maximum de location</target>
+      </trans-unit>
+      <trans-unit id="538">
+        <source>text.months</source>
+        <target>mois</target>
+      </trans-unit>
+      <trans-unit id="539">
+        <source>text.propertyrentindication</source>
+        <target>Prix de la location (par semaine)</target>
+      </trans-unit>
+      <trans-unit id="540">
+        <source>text.propertyfurnished</source>
+        <target>Meublé?</target>
+      </trans-unit>
+      <trans-unit id="541">
+        <source>text.propertyconstructionyear</source>
+        <target>Année de construction</target>
+      </trans-unit>
+      <trans-unit id="542">
+        <source>text.propertyrenovationyear</source>
+        <target>Année de rénovation</target>
+      </trans-unit>
+      <trans-unit id="543">
+        <source>text.propertyisolation</source>
+        <target>Isolation</target>
+      </trans-unit>
+      <trans-unit id="544">
+        <source>text.propertydoubleglass</source>
+        <target>Double vitrage</target>
+      </trans-unit>
+      <trans-unit id="545">
+        <source>text.propertyinteriorstate</source>
+        <target>état de l'intérieur</target>
+      </trans-unit>
+      <trans-unit id="546">
+        <source>text.propertyexteriorstate</source>
+        <target>état de l'extérieur</target>
+      </trans-unit>
+      <trans-unit id="547">
+        <source>text.propertywheelchair</source>
+        <target>Accessible en chaise roulante</target>
+      </trans-unit>
+      <trans-unit id="548">
+        <source>text.propertysurrounding</source>
+        <target>Alentours</target>
+      </trans-unit>
+      <trans-unit id="549">
+        <source>text.propertyview</source>
+        <target>Voir </target>
+      </trans-unit>
+      <trans-unit id="550">
+        <source>text.propertyhoreca</source>
+        <target>Horeca</target>
+      </trans-unit>
+      <trans-unit id="551">
+        <source>text.propertyentertainment</source>
+        <target>Loisirs</target>
+      </trans-unit>
+      <trans-unit id="552">
+        <source>notification.loginfailed</source>
+        <target>La connexion a échoué</target>
+      </trans-unit>
+      <trans-unit id="553">
+        <source>portal.account.create</source>
+        <target>Créer un compte</target>
+      </trans-unit>
+      <trans-unit id="554">
+        <source>portal.notification.chooseaccounttype</source>
+        <target>Définissez le genre de vendeur que vous êtes</target>
+      </trans-unit>
+      <trans-unit id="555">
+        <source>portal.notification.fillinyourregistrationdatafirst</source>
+        <target>Remplissez d'abord vos données d'inscription</target>
+      </trans-unit>
+      <trans-unit id="556">
+        <source>portal.statistics</source>
+        <target>Statistiques</target>
+      </trans-unit>
+      <trans-unit id="557">
+        <source>portal.account.retryPayment</source>
+        <target>Réessayer de payer</target>
+      </trans-unit>
+      <trans-unit id="558">
+        <source>portal.title.a2ndhomeaccount</source>
+        <target>Partenariat MySecondHome</target>
+      </trans-unit>
+      <trans-unit id="559">
+        <source>portal.text.a2ndhomeaccount</source>
+        <target>Bienvenue ! Êtes-vous également interessé de devenir partneaire avec MySecondHome ? Créez votre compte et consultez nos packs ici. Si vous avez des questions, contactez-vous en remplissant notre fiche de contact sur notre page contact.</target>
+      </trans-unit>
+      <trans-unit id="560">
+        <source>portal.text.createaccount</source>
+        <target>Créer un compte</target>
+      </trans-unit>
+      <trans-unit id="561">
+        <source>portal.text.alreadyhaveanaccount</source>
+        <target>Possédez-vous déjà un compte ?</target>
+      </trans-unit>
+      <trans-unit id="562">
+        <source>portal.text.continuehere</source>
+        <target>Cliquez ici</target>
+      </trans-unit>
+      <trans-unit id="563">
+        <source>portal.title.accounttype</source>
+        <target>De quel genre êtes-vous ?</target>
+      </trans-unit>
+      <trans-unit id="564">
+        <source>portal.text.nextstep</source>
+        <target>prochaine étape</target>
+      </trans-unit>
+      <trans-unit id="565">
+        <source>portal.text.price</source>
+        <target>Prix</target>
+      </trans-unit>
+      <trans-unit id="566">
+        <source>portal.text.priceperproperty</source>
+        <target>prix par propriété</target>
+      </trans-unit>
+      <trans-unit id="567">
+        <source>portal.title.statistics</source>
+        <target>Statistiques</target>
+      </trans-unit>
+      <trans-unit id="568">
+        <source>portal.title.graph</source>
+        <target>Graphique</target>
+      </trans-unit>
+      <trans-unit id="569">
+        <source>portal.stats.filter</source>
+        <target>Filtre</target>
+      </trans-unit>
+      <trans-unit id="570">
+        <source>portal.stats.filter.start</source>
+        <target>à partir de </target>
+      </trans-unit>
+      <trans-unit id="571">
+        <source>portal.stats.filter.end</source>
+        <target>Jusqu'à </target>
+      </trans-unit>
+      <trans-unit id="572">
+        <source>portal.stats.filter.showingraph</source>
+        <target>Afficher dans le graphique</target>
+      </trans-unit>
+      <trans-unit id="573">
+        <source>portal.stats.filter.country</source>
+        <target>Pays</target>
+      </trans-unit>
+      <trans-unit id="574">
+        <source>portal.stats.demographyBlock</source>
+        <target>Démographie</target>
+      </trans-unit>
+      <trans-unit id="575">
+        <source>portal.stats.country</source>
+        <target>Pays</target>
+      </trans-unit>
+      <trans-unit id="576">
+        <source>portal.stats.count</source>
+        <target>montant</target>
+      </trans-unit>
+      <trans-unit id="577">
+        <source>portal.text.alreadyplacedinnewsletter</source>
+        <target>Cette propriété est déjà dans la newsletter</target>
+      </trans-unit>
+      <trans-unit id="578">
+        <source>portal.stats.total</source>
+        <target>Propriétés</target>
+      </trans-unit>
+      <trans-unit id="579">
+        <source>portal.stats.bestshownblock</source>
+        <target>Plus populaires</target>
+      </trans-unit>
+      <trans-unit id="580">
+        <source>portal.stats.property</source>
+        <target>Propriété</target>
+      </trans-unit>
+      <trans-unit id="581">
+        <source>title.portal.controlpanel</source>
+        <target>Mon tableau de bord</target>
+      </trans-unit>
+      <trans-unit id="582">
+        <source>portal.property.upsell</source>
+        <target>Plus de publicité</target>
+      </trans-unit>
+      <trans-unit id="583">
+        <source>portal.package.selected</source>
+        <target>Votre pack </target>
+      </trans-unit>
+      <trans-unit id="584">
+        <source>text.or</source>
+        <target>ou</target>
+      </trans-unit>
+      <trans-unit id="585">
+        <source>portal.package.companyprofile</source>
+        <target>1 x le profil de la société</target>
+      </trans-unit>
+      <trans-unit id="586">
+        <source>portal.package.statistics</source>
+        <target>Tableau de bord avec statistiques</target>
+      </trans-unit>
+      <trans-unit id="587">
+        <source>portal.text.contractperiod</source>
+        <target>Durée du contrat en mois : </target>
+      </trans-unit>
+      <trans-unit id="588">
+        <source>portal.notification.choosecontractperiod</source>
+        <target>Choisissez la durée du contract</target>
+      </trans-unit>
+      <trans-unit id="589">
+        <source>portal.text.month</source>
+        <target>Mois</target>
+      </trans-unit>
+      <trans-unit id="590">
+        <source>portal.text.development</source>
+        <target>projet</target>
+      </trans-unit>
+      <trans-unit id="591">
+        <source>portal.text.priceexvat</source>
+        <target>Prix hors TVA</target>
+      </trans-unit>
+      <trans-unit id="592">
+        <source>portal.stats.stat.found</source>
+        <target>montré</target>
+      </trans-unit>
+      <trans-unit id="593">
+        <source>portal.stats.stat.viewed</source>
+        <target>vu</target>
+      </trans-unit>
+      <trans-unit id="594">
+        <source>portal.stats.stat.contact</source>
+        <target>demande de contact</target>
+      </trans-unit>
+      <trans-unit id="595">
+        <source>portal.stats.stat.phone</source>
+        <target>a vu votre numéro de téléphone</target>
+      </trans-unit>
+      <trans-unit id="596">
+        <source>portal.stats.stat.website</source>
+        <target>a consulté votre site</target>
+      </trans-unit>
+      <trans-unit id="597">
+        <source>portal.stats.stat.brochure</source>
+        <target>Brochure</target>
+      </trans-unit>
+      <trans-unit id="598">
+        <source>portal.stats.stat.</source>
+        <target>Statistiques</target>
+      </trans-unit>
+      <trans-unit id="599">
+        <source>title.appreciateprovider</source>
+        <target>Aperçu sur le fournisseur</target>
+      </trans-unit>
+      <trans-unit id="600">
+        <source>text.thanksforyourappreciation</source>
+        <target>Merci pour votre avis</target>
+      </trans-unit>
+      <trans-unit id="601">
+        <source>text.countryknowledge</source>
+        <target>Connaissances du pays</target>
+      </trans-unit>
+      <trans-unit id="602">
+        <source>text.communication</source>
+        <target>Communication</target>
+      </trans-unit>
+      <trans-unit id="603">
+        <source>text.financialknowledge</source>
+        <target>Connaissances financières</target>
+      </trans-unit>
+      <trans-unit id="604">
+        <source>text.guidance</source>
+        <target>Conseils</target>
+      </trans-unit>
+      <trans-unit id="605">
+        <source>text.emailadressrequiredforappreciation</source>
+        <target>Votre email :</target>
+      </trans-unit>
+      <trans-unit id="606">
+        <source>text.notnow</source>
+        <target>Pas maintenant</target>
+      </trans-unit>
+      <trans-unit id="607">
+        <source>text.saveappreciation</source>
+        <target>Sauvegarder</target>
+      </trans-unit>
+      <trans-unit id="608">
+        <source>text.warningalreadysubmitted</source>
+        <target>Vous avez déjà rempli votre fiche d'appréciation</target>
+      </trans-unit>
+      <trans-unit id="609">
+        <source>text.warningproviderappreciationemailandappreciationisrequired</source>
+        <target>Remplissez tous les champs libres</target>
+      </trans-unit>
+      <trans-unit id="610">
+        <source>text.appreciation</source>
+        <target>Appreciation</target>
+      </trans-unit>
+      <trans-unit id="611">
+        <source>portal.title.profile</source>
+        <target>Mon profil</target>
+      </trans-unit>
+      <trans-unit id="612">
+        <source>portal.title.editprofile</source>
+        <target>Modifier le profil</target>
+      </trans-unit>
+      <trans-unit id="613">
+        <source>portal.text.companyinfo</source>
+        <target>Company information</target>
+      </trans-unit>
+      <trans-unit id="614">
+        <source>portal.profile.promovideo</source>
+        <target>Video ( Youtube link)</target>
+      </trans-unit>
+      <trans-unit id="615">
+        <source>portal.profile.description.promovideo</source>
+        <target>Description video</target>
+      </trans-unit>
+      <trans-unit id="616">
+        <source>portal.profile.usps</source>
+        <target>Notre force</target>
+      </trans-unit>
+      <trans-unit id="617">
+        <source>portal.profile.logo</source>
+        <target>Logo</target>
+      </trans-unit>
+      <trans-unit id="618">
+        <source>portal.profile.imagecriteria</source>
+        <target>Max. format 5 MB</target>
+      </trans-unit>
+      <trans-unit id="619">
+        <source>portal.profile.description</source>
+        <target>Description de la société</target>
+      </trans-unit>
+      <trans-unit id="620">
+        <source>portal.form.saveprofile</source>
+        <target>Sauvegarder</target>
+      </trans-unit>
+      <trans-unit id="621">
+        <source>text.propertytoprated</source>
+        <target>Meilleure propriété</target>
+      </trans-unit>
+      <trans-unit id="622">
+        <source>portal.text.noresultsyet</source>
+        <target>Pas encore de résultat</target>
+      </trans-unit>
+      <trans-unit id="623">
+        <source>text.welcome-back</source>
+        <target>Heureux de vous revoir sur MySecondHome</target>
+      </trans-unit>
+      <trans-unit id="624">
+        <source>text.country-selected-on-last-visit</source>
+        <target>La dernière fois que vous avez consulté des informations sur: </target>
+      </trans-unit>
+      <trans-unit id="625">
+        <source>text.forget-country</source>
+        <target>Non, choisissez un autre pays</target>
+      </trans-unit>
+      <trans-unit id="626">
+        <source>text.proceed-country</source>
+        <target>Oui, afficher ce pays</target>
+      </trans-unit>
+      <trans-unit id="627">
+        <source>form.captcha</source>
+        <target>Entrez le code ici</target>
+      </trans-unit>
+      <trans-unit id="628">
+        <source>portal.selected-package</source>
+        <target>Sélectionner un pack </target>
+      </trans-unit>
+      <trans-unit id="629">
+        <source>portal.stats.filter.button</source>
+        <target>Faire une sélection</target>
+      </trans-unit>
+      <trans-unit id="630">
+        <source>portal.profile.removeemployeephoto</source>
+        <target>Retirer la photo</target>
+      </trans-unit>
+      <trans-unit id="631">
+        <source>text.projectSurroundings</source>
+        <target>Alentours</target>
+      </trans-unit>
+      <trans-unit id="632">
+        <source>text.appreciation.country_knowledge</source>
+        <target>Connaissances du pays</target>
+      </trans-unit>
+      <trans-unit id="633">
+        <source>text.appreciation.communication</source>
+        <target>Communication</target>
+      </trans-unit>
+      <trans-unit id="634">
+        <source>text.appreciation.financial_knowledge</source>
+        <target>Connaissances financières</target>
+      </trans-unit>
+      <trans-unit id="635">
+        <source>text.appreciation.guidance</source>
+        <target>Conseils</target>
+      </trans-unit>
+      <trans-unit id="636">
+        <source>portal.notification.packagetoosmall</source>
+        <target>Le pack est trop petit pour votre offre</target>
+      </trans-unit>
+      <trans-unit id="637">
+        <source>portal.notification.packagechanged</source>
+        <target>Profil modifié</target>
+      </trans-unit>
+      <trans-unit id="638">
+        <source>portal.notification.profilesaved</source>
+        <target>Profil sauvegardé</target>
+      </trans-unit>
+      <trans-unit id="639">
+        <source>portal.notification.employeeadded</source>
+        <target>Employé ajouté</target>
+      </trans-unit>
+      <trans-unit id="640">
+        <source>portal.title.addEmployee</source>
+        <target>Ajouter un employé</target>
+      </trans-unit>
+      <trans-unit id="641">
+        <source>portal.notification.employeesaved</source>
+        <target>Employé sauvegardé</target>
+      </trans-unit>
+      <trans-unit id="642">
+        <source>portal.title.editEmployee</source>
+        <target>Modifier</target>
+      </trans-unit>
+      <trans-unit id="643">
+        <source>portal.notification.employeedeleted</source>
+        <target>retirer l'employer</target>
+      </trans-unit>
+      <trans-unit id="644">
+        <source>portal.text.employees</source>
+        <target>Employés</target>
+      </trans-unit>
+      <trans-unit id="645">
+        <source>portal.text.employee.add</source>
+        <target>Ajouter</target>
+      </trans-unit>
+      <trans-unit id="646">
+        <source>portal.text.xml.importurl</source>
+        <target>XML import URL</target>
+      </trans-unit>
+      <trans-unit id="647">
+        <source>portal.text.employee</source>
+        <target>Profil de l'employé</target>
+      </trans-unit>
+      <trans-unit id="648">
+        <source>portal.text.employee.photo</source>
+        <target>Photo de passeport</target>
+      </trans-unit>
+      <trans-unit id="649">
+        <source>portal.text.employee.firstname</source>
+        <target>Prénom</target>
+      </trans-unit>
+      <trans-unit id="650">
+        <source>portal.text.employee.surname</source>
+        <target>Nom</target>
+      </trans-unit>
+      <trans-unit id="651">
+        <source>portal.text.employee.email</source>
+        <target>Email (personnell)</target>
+      </trans-unit>
+      <trans-unit id="652">
+        <source>portal.text.employee.password</source>
+        <target>Mot de passe</target>
+      </trans-unit>
+      <trans-unit id="653">
+        <source>portal.text.employee.password_confirm</source>
+        <target>Confirmer le mot de passe</target>
+      </trans-unit>
+      <trans-unit id="654">
+        <source>portal.text.employee.function</source>
+        <target>Fonction</target>
+      </trans-unit>
+      <trans-unit id="655">
+        <source>portal.form.saveemployee</source>
+        <target>Sauvegarder</target>
+      </trans-unit>
+      <trans-unit id="656">
+        <source>portal.form.deleteemployee</source>
+        <target>Effacer</target>
+      </trans-unit>
+      <trans-unit id="657">
+        <source>portal.employee.confirm.delete</source>
+        <target>Effacer l'employé ?</target>
+      </trans-unit>
+      <trans-unit id="658">
+        <source>portal.text.profile</source>
+        <target>Détails du profil</target>
+      </trans-unit>
+      <trans-unit id="659">
+        <source>portal.text.photo</source>
+        <target>Photo de passeport</target>
+      </trans-unit>
+      <trans-unit id="660">
+        <source>portal.text.firstname</source>
+        <target>Prénom</target>
+      </trans-unit>
+      <trans-unit id="661">
+        <source>portal.text.surname</source>
+        <target>Nom</target>
+      </trans-unit>
+      <trans-unit id="662">
+        <source>portal.text.password</source>
+        <target>Mot de passe</target>
+      </trans-unit>
+      <trans-unit id="663">
+        <source>portal.text.password_confirm</source>
+        <target>Retaper le mot de passe</target>
+      </trans-unit>
+      <trans-unit id="664">
+        <source>url.forgot.login</source>
+        <target>Identifiant oublié</target>
+      </trans-unit>
+      <trans-unit id="665">
+        <source>portal.menu.portal_profile</source>
+        <target>Mon profil</target>
+      </trans-unit>
+      <trans-unit id="666">
+        <source>portal.text.contacts</source>
+        <target>Employés</target>
+      </trans-unit>
+      <trans-unit id="667">
+        <source>portal.text.contact1</source>
+        <target>Contact 1</target>
+      </trans-unit>
+      <trans-unit id="668">
+        <source>portal.text.contact2</source>
+        <target>Contact 2</target>
+      </trans-unit>
+      <trans-unit id="669">
+        <source>portal.form.upsellproperty</source>
+        <target>Publicité supplémentaire </target>
+      </trans-unit>
+      <trans-unit id="670">
+        <source>text.addasfavoriteproperty</source>
+        <target>Ajouter la propriété dans les favoris</target>
+      </trans-unit>
+      <trans-unit id="671">
+        <source>portal.stats.properties.displayed</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="672">
+        <source>portal.stats.displayed</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="673">
+        <source>portal.stats.properties.found</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="674">
+        <source>portal.stats.found</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="675">
+        <source>portal.stats.properties.viewed</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="676">
+        <source>portal.stats.viewed</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="677">
+        <source>portal.stats.contacted</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="678">
+        <source>portal.stats.brochure.downloads</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="679">
+        <source>portal.stats.telephonenumber.requested</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="680">
+        <source>portal.stats.clicked.to.website</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="681">
+        <source>text.staticcontactform</source>
+        <target>Contact us</target>
+      </trans-unit>
+      <trans-unit id="682">
+        <source>text.staticcontactusdescription</source>
+        <target>More information about listing your properties online or other possibilities to advertise on MySecondHome? Fill out the contact form below. </target>
+      </trans-unit>
+      <trans-unit id="683">
+        <source>text.removeasfavoriteproperty</source>
+        <target>Remove as favorite</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

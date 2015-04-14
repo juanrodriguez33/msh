@@ -1,0 +1,33 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           banner
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              banner
+    plural:                banners
+    route_prefix:          banner
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+
+      fields: ~
+
+      list:
+        title:   Banners
+        display:      [country, theme]
+
+      filter:
+        display:      [country_id, theme_id]
+
+      form:
+        display:
+          Data:   [country_id, theme_id, image_id]
+
+
+      edit: ~
+
+      new: ~

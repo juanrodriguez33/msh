@@ -1,0 +1,27 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           creditspackage
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              creditspackage
+    plural:                creditspackages
+    route_prefix:          creditspackage
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields: ~
+      list:
+        title:    Creditspackages
+        display:  [title, price, credits]
+      filter:
+        display:  [price, credits]
+      form:
+        display:
+          Title:    [en<?php foreach(LanguagePeer::getIndex() as $oLang) { echo ','.$oLang->getCulture();} ?>]
+          Package:  [price, credits]
+      edit:    ~
+      new:     ~

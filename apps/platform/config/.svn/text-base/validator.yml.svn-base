@@ -1,0 +1,6 @@
+fields:
+  captcha:
+    required:
+      msg:            Enter characters from image
+    sfCaptchaGDValidator:
+      captcha_error:  Entered characters are wrong, try again

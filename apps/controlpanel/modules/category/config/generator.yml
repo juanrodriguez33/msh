@@ -1,0 +1,42 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           category
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              category
+    plural:                categorys
+    route_prefix:          category
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+
+      actions: ~
+
+      fields:
+        main:         { label: "Main category?" }
+
+      list:
+        title:   Categories
+        display:      [title, phase1, phase2, phase3, sequence]
+        object_actions:
+          down:    { label: Omlaag, icon: down }
+          up:       { label: Omhoog, icon: up }
+          _edit:     ~
+          _delete:   ~
+
+      filter:
+        display:      [phase1, phase2, phase3]
+
+      form:
+        display:
+          Data:   [main, phase1, phase2, phase3, image_id<?php foreach(LanguagePeer::getIndex() as $oLang) { echo ','.$oLang->getCulture();} ?>]
+
+
+      edit:
+        title: Edit category
+
+      new:
+        title: Add category

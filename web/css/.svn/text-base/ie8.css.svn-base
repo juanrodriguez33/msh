@@ -1,0 +1,123 @@
+/* SOME FIXES FOR IE8 */
+#header,
+section.content{
+    border-bottom: 1px #A3A3A3 solid;
+}
+
+/* ELEMENTS */
+input[type=text], input[type=password]{
+    line-height: 30px;
+}
+sup .button{
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+/* FILTER */
+#filter input[type=text]{
+    float: left;
+    margin: 21px 0 0 30px;
+}
+
+/* MAIN MENU */
+#mainMenu{
+    font-size: 0.9em;
+}
+#mainMenu nav{
+    margin-top: 40px;
+}
+
+/* BLOCKS */
+li[left=true]{
+    margin-left: 0 !important;
+}
+
+/* BUTTONS */
+.button.down.raquo:after{
+    padding: 0 5px 0 0;
+}
+.button.back{
+    margin-left: 10px;
+}
+.button.up.raquo:after{
+    content: "";
+    padding: 0;
+}
+.button.up.raquo{
+    padding-right: 6px;
+}
+.button.up.raquo:before{
+    content: "\00ab";
+    padding: 0 5px 0 0;
+}
+
+
+/* TITLE */
+.title{
+    font-weight: bold !important;
+}
+
+/* PROPERTIES TOP RATED */
+ul.topRated > li img + div.topRatedProperty{
+    background: #ffae0a;
+    border-bottom: solid 2px #999;
+    display: block;
+    float: none;
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    top: -2px;
+    left: -2px;
+    width: 220px;
+}
+ul.topRated > li img + div.topRatedProperty span{
+    display: block;
+    height: 30px;
+    line-height: 30px;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    width: 100%;
+}
+
+/* INACTIVE PROPERTIES */
+ul.topRated.inactive > li {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
+}
+
+
+/* FOOTER */
+#scrollToTop{
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+    text-align: center;
+    width: 24px !important;
+}
+#footer .socialmedia_icon{
+    display: block;
+    float: left;
+    overflow: hidden;
+    text-indent: -150000px;
+    text-align: center;
+}
+#footer .socialmedia_icon:before{
+    display: block;
+    height: 30px;
+    margin-right: 5px;
+    text-indent: 0;
+    text-align: center;
+    width: 30px;
+}
+#footer .socialmedia_icon.google:before{
+    content: "g";
+}
+#footer .socialmedia_icon.facebook:before{
+    content: "f";
+}
+#footer .socialmedia_icon.twitter:before{
+    content: "t";
+}
+#footer .socialmedia_icon.pinterest:before{
+    content: "p";
+}

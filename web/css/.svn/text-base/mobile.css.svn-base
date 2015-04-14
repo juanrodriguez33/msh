@@ -1,0 +1,10 @@
+/* VERSION */
+.mobile{
+    display: block !important;
+}
+.website{
+    display: none !important;
+}
+
+
+/* ELEMENTS */

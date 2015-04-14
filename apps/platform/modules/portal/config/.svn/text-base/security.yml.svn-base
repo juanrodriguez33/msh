@@ -1,0 +1,8 @@
+default:
+  is_secure:  true
+  credentials: [[ROLE_ASSOCIATION, ROLE_CONSUMER]]
+
+register:
+  is_secure: false
+registration:
+  is_secure: false

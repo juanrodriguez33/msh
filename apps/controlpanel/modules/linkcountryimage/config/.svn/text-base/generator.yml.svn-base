@@ -1,0 +1,33 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           linkcountryimage
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              linkcountryimage
+    plural:                linkcountryimages
+    route_prefix:          linkcountryimage
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        title:   Images for
+        display: [sequence, _example]
+        object_actions:
+          up:      { label: Omhoog, icon: up }
+          down:    { label: Omlaag, icon: down }
+          _delete:  ~
+        batch_actions: []
+        actions:
+          _new:   ~
+          back:    { label: Back to countries }
+
+      filter:
+        class: false
+      form:    ~
+      edit:    ~
+      new:     ~

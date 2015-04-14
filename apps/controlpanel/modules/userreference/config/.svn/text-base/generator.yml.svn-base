@@ -1,0 +1,30 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           userreference
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              userreference
+    plural:                userreferences
+    route_prefix:          userreference
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        ref_country: { label: "Experience in country"}
+        ref_country_id: { label: "Experience in country"}
+      list:
+        display: [title, language, ref_country]
+      filter:
+        display: [title, language_id, ref_country_id]
+      form:
+        display:
+          User:   [image_id, square_image_id, first_name, insert, surname, email_address, city, country_id]
+          Experience: [language_id, ref_country_id, title, intro, content]
+          break:          [id]
+          SEO:            [custom_url, meta_title, meta_description]
+      edit:    ~
+      new:     ~

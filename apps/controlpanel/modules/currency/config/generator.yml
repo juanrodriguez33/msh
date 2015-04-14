@@ -1,0 +1,24 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           currency
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              currency
+    plural:                currencys
+    route_prefix:          currency
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        display:  [symbol, title ]
+      filter:
+        class:    false
+      form:
+        display:  [title, symbol]
+      edit:    ~
+      new:     ~

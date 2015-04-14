@@ -1,0 +1,47 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           country
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              country
+    plural:                countrys
+    route_prefix:          country
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+
+      actions: ~
+
+      fields:
+        title:              { label: Country }
+        countrycode:        { label: Country }
+        flag_image_id:      { label: Flag image }
+        image_id:           { label: Image }
+        online:             { label: Enable country }
+        inmenu:             { label: Place country in menu }
+        popular:            { label: Popular country }
+
+      list:
+        title:   Countries
+        display: [title]
+        object_actions:
+          _edit:     ~
+          _delete:   ~
+
+      filter:
+        class: false
+
+      form:
+        display:
+          Content:   [en<?php foreach(LanguagePeer::getIndex() as $oLang) { echo ','.$oLang->getCulture();} ?>]
+          Basic:     [online, inmenu, popular, flag_image_id, image_id, theme]
+
+
+      edit:
+        title: Edit country
+
+      new:
+        title: Add country

@@ -1,0 +1,40 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           transaction
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              transaction
+    plural:                transactions
+    route_prefix:          transaction
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        association:        { label: Provider }
+        association_id:     { label: Provider }
+
+      list:
+        title:   Transactions
+        display: [_created_at, _description, _state, subject ]
+        sort:    [created_at, desc]
+        fields:
+          amount:
+            class: text-align_right
+        object_actions: {}
+        batch_actions:  {}
+
+      filter:
+        display: [association_id, created_at ]
+
+      form:
+        display:
+          Gegevens: [association_id, credits]
+
+      edit: ~
+
+      new:
+        title: Add transaction

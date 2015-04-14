@@ -1,0 +1,36 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           propertytype
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              propertytype
+    plural:                propertytypes
+    route_prefix:          propertytype
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+
+      actions: ~
+
+      fields: ~
+
+      list:
+        title:   Propertytypes
+        display:      [title]
+
+      filter:
+        class: false
+
+      form:
+        display:
+          Data:   [en<?php foreach(LanguagePeer::getIndex() as $oLang) { echo ','.$oLang->getCulture();} ?>]
+
+
+      edit:
+        title: Edit property type
+
+      new:
+        title: Add property type

@@ -1,0 +1,47 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           user
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              user
+    plural:                users
+    route_prefix:          user
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+
+      actions: ~
+
+      fields:
+        association:      { label: Provider }
+        association_id:   { label: Provider }
+        email_address:    { label: Email }
+        password_confirm: { label: Confirm }
+
+      list:
+        title:   Users
+        display: [association, surname, first_name, email_address]
+        object_actions:
+          disable:        { label: Offline }
+          _edit:          ~
+          _delete:        ~
+
+      filter:
+        display: [association_id, surname, first_name, email_address]
+
+      form:
+        display:
+          Data:       [first_name, insert, surname, email_address, image_id]
+          break:      ['NULL']
+          Password:   [password, password_confirm]
+          Type:       [type_id, association_id]
+          Expert in:  [country, language]
+
+      edit:
+        title: Edit user
+
+      new:
+        title: Add user

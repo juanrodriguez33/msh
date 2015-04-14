@@ -1,0 +1,29 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           pagetype
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              pagetype
+    plural:                pagetypes
+    route_prefix:          pagetype
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        title:
+          help: Depending on the page type you can use the following substitutions below: (%country%, %region%, %city%, %category%, %article%, %theme%, %question%, %experience%, %development%, %provider%, %property%)
+      list:
+        display:      [title]
+      filter:
+        display:      [title]
+        fields:
+          title:
+            help: false
+      form:
+        display:      [title, en,<?php foreach(LanguagePeer::getIndex() as $oLang) { echo ','.$oLang->getCulture();} ?>]
+      edit:    ~
+      new:     ~

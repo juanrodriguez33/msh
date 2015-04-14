@@ -1,0 +1,52 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           association
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              association
+    plural:                associations
+    route_prefix:          association
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+
+      actions: ~
+
+      fields:
+        title:        { label: "Company name" }
+
+      list:
+        title:   Providers
+        display: [title, email_address, phone_number]
+        object_actions:
+          enable:        { label: Online, icon: online }
+          disable:        { label: Offline, icon: offline }
+          _edit:          ~
+          _delete:        ~
+          linkedusers: {label: Users, icon: admins}
+        fields:
+          credits:
+            class: text-align_right
+
+      filter:
+        display: [title, email_address, phone_number]
+
+      form:
+        display:
+          Basic:      [title, email_address, phone_number, url, founded, contact1_id, contact2_id, contract_id, contract_period]
+          Address:    [country_id, region_id, city_id, address1, address2]
+          break:      [id]
+          Logo:       [image_id]
+          Content:    [en<?php foreach(LanguagePeer::getIndex() as $oLang) { echo ','.$oLang->getCulture();} ?>]
+        fields:
+          image_id: { label: 'NULL' }
+          content:  { label: 'NULL' }
+
+      edit:
+        title: Edit provider
+
+      new:
+        title: Add provider

@@ -1,0 +1,29 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           theme
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              theme
+    plural:                themes
+    route_prefix:          theme
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        title:  Theme's
+        display:  [title]
+        object_actions:
+          _edit:     ~
+          _delete:   ~
+          images:   { label: Images, icon: images }
+      filter:
+        class:    false
+      form:
+        display:  [en<?php foreach(LanguagePeer::getIndex() as $oLang) { echo ','.$oLang->getCulture();} ?>]
+      edit:    ~
+      new:     ~

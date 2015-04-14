@@ -1,0 +1,47 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/11-App
+
+# default values
+all:
+
+  app_analytics_tracker_dev:   UA-41954374-1
+  app_analytics_tracker_live:  UA-41954374-1
+
+  banner:
+    delay:                  7500
+    speed:                  1000
+
+  expander:
+    speed:                  250
+
+  slideshow:
+    navigation:             'true'
+    speed:                  500
+    thumbnails:             'true'
+    thumbnails_hidden:      'true'
+    touch_threshold:        75
+
+  socialmedia:
+    facebook_url:           'https://www.facebook.com/pages/MySecondHome/189900107711305'
+    pinterest_url:          'http://pinterest.com/mysecondhome/'
+    twitter_url:            'https://twitter.com/MySecondhome'
+    googleplus_url:         'https://plus.google.com/100218074528594897608'
+
+  portal:
+    default_period:         12
+
+  sf_captchagd:
+    image_width:                130 # image width in pixels
+    image_height:               30 # image height in pixels
+    chars:                      "123456789" # possible chars in captcha
+    length:                     4 # length of captcha
+    font_size:                  16 # font size
+    force_new_captcha:          true # if true - captcha regenerated EVERY request, even if user input true value before
+
+    # possible chars colors
+    font_color:                 ["F88C13", "2C75A6", "F7B244", "5F5F5F", "353535"] # ["252525", "8b8787", "550707", "3526E6", "88531E"]
+
+    # chars fonts
+    fonts:                      ["akbar/akbar.ttf", "brushcut/BRUSHCUT.TTF", "molten/molten.ttf", "planet_benson/Planetbe.ttf", "whoobub/WHOOBUB_.TTF"]
+    background_color:           F3F3F3 # image background color
+    border_color:               F3F3F3 # image border color

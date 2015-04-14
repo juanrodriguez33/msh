@@ -1,0 +1,158 @@
+select,
+#filter select + span,
+input[type=submit],
+a.socialmedia_icon,
+a.a_captcha_reload,
+a.a_captcha_reload > img,
+#cookie,
+#cookie > img,
+#magic-line,
+#experience,
+#div_suggestions li.option,
+#div_suggestions li.option a{
+    transition: all .4s;
+    -moz-transition: all .4s;
+    -webkit-transition: all .4s;
+    -ms-transition: all .4s;
+    -o-transition: all .4s;
+}
+
+input[type=text]:not([name=search]), input[type=submit]:not([name=search]), textarea,
+.detailInformation aside a,
+.button:not(.proceed),
+a.a_button,
+#form_filter a.a_icon,
+a.add,
+span.dropdown,
+div.categories a,
+table.table tbody tr.thead ~ tr,
+#a_logo,
+#mainMenu li,
+#sideMenu > ul > li > a,
+#sideMenu li div.dropdown div,
+#sideMenu > ul > li > nav,
+#profile_employees > li a img{
+    transition: all .3s;
+    -moz-transition: all .3s;
+    -webkit-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;    
+}
+
+/*#scrollToTop, -- Safari fails, block changes size during animation */
+body.controlpanel #menu ul,
+body.controlpanel #menu > ul > li > a,
+body.controlpanel a.a_icon,
+body.controlpanel table.index td,
+body.controlpanel table.form th,
+body.controlpanel table.form td,
+.slideshow_navigation,
+ul.packets *,
+ul.block .head > a,
+ul.block > li > a p.head,
+#mainMenu li:not(.home) a,
+#askAnExpert ul > li,
+#a_askAnExpert{
+    transition: all .2s;
+    -moz-transition: all .2s;
+    -webkit-transition: all .2s;
+    -ms-transition: all .2s;
+    -o-transition: all .2s;    
+}
+
+.bar li,
+#asideBanner > img,
+#mainMenu li nav,
+ul.block > li,
+span.step, span.step:after, span.step:before{
+    transition: all .1s;
+    -moz-transition: all .1s;
+    -webkit-transition: all .1s;
+    -ms-transition: all .1s;
+    -o-transition: all .1s;    
+}
+
+.noTransition,
+a.actions{
+    transition: all 0s !important;
+    -moz-transition: all 0s !important;
+    -webkit-transition: all 0s !important;
+    -ms-transition: all 0s !important;
+    -o-transition: all 0s !important;
+}
+
+/* SPECIFIC */
+#inputSubmitAppreciate,
+#aEnlargedStreetView, #aShrinkMaps,
+#aFloorMap, #aBrochure, #aStreetView, #aEnlargeMaps, #aAppreciation,
+#homeDetail > aside a.button{
+    transition: background-color .3s !important;
+    -moz-transition: background-color .3s !important;
+    -webkit-transition: background-color .3s !important;
+    -ms-transition: background-color .3s !important;
+    -o-transition: background-color .3s !important;
+}
+
+#homeDetail ul.block a img{
+    transition: opacity .3s;
+    -moz-transition: opacity .3s;
+    -webkit-transition: opacity .3s;
+    -ms-transition: opacity .3s;
+    -o-transition: opacity .3s;   
+}
+
+div#div_suggestions li.option a{
+    transition: all .1s;
+    -moz-transition: all .1s;
+    -webkit-transition: all .1s;
+    -ms-transition: all .1s;
+    -o-transition: all .1s;
+}
+a.plupload_button{
+    transition: box-shadow .3s, color .3s;
+    -moz-transition: -moz-box-shadow .3s, color .3s;
+    -webkit-transition: -webkit-box-shadow .3s, color .3s;
+    -ms-transition: -ms-box-shadow .3s, color .3s;
+    -o-transition: -o-box-shadow .3s, color .3s;
+}
+
+ul.sortable > li{
+    transition: background-color .3s;
+    -moz-transition: background-color .3s;
+    -webkit-transition: background-color .3s;
+    -ms-transition: background-color .3s;
+    -o-transition: background-color .3s; 
+}
+
+/* WITH DELAYS */
+noscript, noscript p{
+    transition: all 1.5s ease .5s;
+    -webkit-transition: all 1.5s ease .5s;
+    -moz-transition: all 1.5s ease .5s;
+    -ms-transition: all 1.5s ease .5s;
+    -o-transition: all 1.5s ease .5s;
+}
+#mainMenu li nav{
+    transition: all .3s ease .2s !important;
+    -webkit-transition: all .3s ease .2s !important;
+    -moz-transition: all .3s ease .2s !important;
+    -ms-transition: all .3s ease .2s !important;
+    -o-transition: all .3s ease .2s !important;
+}
+body.controlpanel #menu ul ul{
+    transition: all .2s ease .3s !important;
+    -webkit-transition: all .2s ease .3s !important;
+    -moz-transition: all .2s ease .3s !important;
+    -ms-transition: all .2s ease .3s !important;
+    -o-transition: all .2s ease .3s !important;
+}
+
+
+/* iPad FIX */
+#mainMenu.iOS li nav{
+    transition: all 0s !important;
+    -moz-transition: all 0s !important;
+    -webkit-transition: all 0s !important;
+    -ms-transition: all 0s !important;
+    -o-transition: all 0s !important;
+}

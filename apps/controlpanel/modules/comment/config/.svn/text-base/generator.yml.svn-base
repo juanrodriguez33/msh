@@ -1,0 +1,25 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           comment
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              comment
+    plural:                comments
+    route_prefix:          comment
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields: ~
+      list:
+        display:  [created_at, user, name, email, active]
+        actions: {}
+      filter:
+        display:  [created_at, user_id, name, email, active]
+      form:
+        display: [user_id, name, email, active, content]
+      edit:    ~
+      new:     ~

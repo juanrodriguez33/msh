@@ -1,0 +1,44 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           city
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              city
+    plural:                citys
+    route_prefix:          city
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+
+      actions: ~
+
+      fields:
+        region:      { label: Region }
+        title:       { label: City }
+        active:      { label: Approved }
+
+      list:
+        title:   Cities
+        display: [active, title, region, country ]
+        actions:
+          _new:  ~
+          export: { label: Export, icon: export }
+          import: { label: Import, icon: import }
+
+      filter:
+        display: [active, region_id]
+
+      form:
+        display:
+          Content:    [en<?php foreach(LanguagePeer::getIndex() as $oLang) { echo ','.$oLang->getCulture();} ?>]
+          Basic:      [active, region_id]
+
+
+      edit:
+        title: Edit city
+
+      new:
+        title: Add city

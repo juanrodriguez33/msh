@@ -1,0 +1,45 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           contactrequest
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              contactrequest
+    plural:                contactrequests
+    route_prefix:          contactrequest
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      
+      actions: ~
+      
+      fields:
+        name:          { label: Name }
+        concerns:      { label: Concerns }
+        email_address: { label: Email }
+        phone_number:  { label: Phone }
+        content:       { label: Content }
+        created_at:    { label: Date }
+        association:   { label: Provider, credentials: ROLE_ADMIN }
+        association_id: { label: Provider, credentials: ROLE_ADMIN }
+      
+      list:
+        title:   Contactrequest
+        display: [created_at, name, concerns ]
+        sort:    [created_at, desc]
+        object_actions:
+          show:
+            label: Detail
+          _delete: ~
+        actions: {}
+      
+      filter:
+        display: [association, created_at, name, concerns]
+      
+      form: ~
+      
+      edit: ~
+      
+      new: ~

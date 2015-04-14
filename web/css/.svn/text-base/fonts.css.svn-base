@@ -1,0 +1,11 @@
+@font-face{
+	font-family: 'Socialico';
+	src: url('../fonts/socialico.eot')                     format('embedded-opentype');
+	src: url('../fonts/socialico.eot?#iefix')              format('embedded-opentype'),
+	     url('../fonts/socialico.woff')                    format('woff'),
+	     url('../fonts/socialico.ttf')                     format('truetype'),
+	     url('../fonts/socialica.otf')                     format('open-truetype'),
+	     url('../fonts/socialico.svg')                     format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

@@ -1,0 +1,7 @@
+body.controlpanel #menu ul ul{
+    display: none;
+    opacity: 1;
+}
+body.controlpanel #menu ul li:hover ul{
+    display: block;
+}

@@ -1,0 +1,42 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           development
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              development
+    plural:                developments
+    route_prefix:          development
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+
+      actions: ~
+
+      fields:
+        country:      { label: Land }
+        region:       { label: Regio }
+        city:         { label: Plaats }
+
+      list:
+        title:   Developments
+        display: [title, country, region, city ]
+
+      filter:
+        display: [country_id, region_id, city_id]
+
+      form:
+        display:
+          Textueel: [en<?php foreach(LanguagePeer::getIndex() as $oLang) { echo ','.$oLang->getCulture();} ?>]
+          break: [id]
+          Locatie: [country_id, region_id, city_id, address1, address2]
+          Documenten: [pdf_map, brochure]
+          Contact: [association_id, phone_number, email_address]
+
+      edit:
+        title: Edit development
+
+      new:
+        title: Add development

@@ -1,0 +1,33 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           staticpage
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              staticpage
+    plural:                staticpages
+    route_prefix:          staticpage
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        custom_url: {label: "Alternate URL"}
+      list:
+        title:  Static pages
+        display:  [title, language, sequence]
+        object_actions:
+          down:    { label: Omlaag, icon: down }
+          up:      { label: Omhoog, icon: up }
+          _edit:     ~
+          _delete:   ~
+      filter:
+        display: [language_id, title ]
+      form:
+        display:
+          Page: [language_id, title, content]
+          SEO:  [custom_url, meta_title, meta_description]
+      edit:    ~
+      new:     ~

@@ -1,0 +1,46 @@
+html#facebook{
+    background: transparent;
+    overflow-x: hidden;
+}
+body{
+    /*background: #E7EBF2;*/
+    background: #FFF;
+    min-width: 809px;
+    max-width: 809px;
+    width: 809px;
+}
+
+#fbWrapper{
+    /*margin: 20px auto 20px;*/
+    margin: 0;
+    /*width: 851px;*/
+    width: 809px;
+}
+
+#bottom{
+    display: block;
+    float: left;
+    height: 1px;
+    margin: 29px 0 0;
+    width: 100%;
+}
+
+.mtm {
+/*margin-top: 10px;*/
+margin-top: 0;
+}
+.pageAppTab {
+/*padding: 20px 20px;*/
+padding: 0;
+}
+.fbTimelineSection {
+background: #FFF;
+/*border: 1px solid #C4CDE0;
+border-bottom-width: 2px;*/
+float: left;
+/*padding: 10px 20px 10px;*/
+padding: 0;
+width: 809px;
+
+-webkit-border-radius: 3px;
+}

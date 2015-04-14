@@ -1,0 +1,371 @@
+contactrequest:
+  class: sfPropelRouteCollection
+  options:
+    model:                contactrequest
+    module:               contactrequest
+    prefix_path:          /contactrequest
+    column:               id
+    with_wildcard_routes: true
+
+creditspackage:
+  class: sfPropelRouteCollection
+  options:
+    model:                creditspackage
+    module:               creditspackage
+    prefix_path:          /creditspackage
+    column:               id
+    with_wildcard_routes: true
+
+comment:
+  class: sfPropelRouteCollection
+  options:
+    model:                comment
+    module:               comment
+    prefix_path:          /comment
+    column:               id
+    with_wildcard_routes: true
+
+staticpage:
+  class: sfPropelRouteCollection
+  options:
+    model:                staticpage
+    module:               staticpage
+    prefix_path:          /staticpage
+    column:               id
+    with_wildcard_routes: true
+
+linkpropertyimage:
+  class: sfPropelRouteCollection
+  options:
+    model:                linkpropertyimage
+    module:               linkpropertyimage
+    prefix_path:          /linkpropertyimage
+    column:               id
+    with_wildcard_routes: true
+
+
+
+
+api_country:
+  url: /api/country
+  param: { module: api, action: country }
+
+api_region:
+  url: /api/region
+  param: { module: api, action: region }
+
+api_city:
+  url: /api/city
+  param: { module: api, action: city }
+
+translations_edit:
+  url: /language/:id/translations
+  param: { module: language, action: translations }
+
+banner:
+  class: sfPropelRouteCollection
+  options:
+    model:                banner
+    module:               banner
+    prefix_path:          /banner
+    column:               id
+    with_wildcard_routes: true
+
+linkregionimage:
+  class: sfPropelRouteCollection
+  options:
+    model:                linkregionimage
+    module:               linkregionimage
+    prefix_path:          /linkregionimage
+    column:               id
+    with_wildcard_routes: true
+
+linkthemeimage:
+  class: sfPropelRouteCollection
+  options:
+    model:                linkthemeimage
+    module:               linkthemeimage
+    prefix_path:          /linkthemeimage
+    column:               id
+    with_wildcard_routes: true
+
+xmlsystem:
+  class: sfPropelRouteCollection
+  options:
+    model:                xmlsystem
+    module:               xmlsystem
+    prefix_path:          /xmlsystem
+    column:               id
+    with_wildcard_routes: true
+
+usertype:
+  class: sfPropelRouteCollection
+  options:
+    model:                usertype
+    module:               usertype
+    prefix_path:          /usertype
+    column:               id
+    with_wildcard_routes: true
+
+userreference:
+  class: sfPropelRouteCollection
+  options:
+    model:                userreference
+    module:               userreference
+    prefix_path:          /userreference
+    column:               id
+    with_wildcard_routes: true
+
+user:
+  class: sfPropelRouteCollection
+  options:
+    model:                user
+    module:               user
+    prefix_path:          /user
+    column:               id
+    with_wildcard_routes: true
+
+transaction:
+  class: sfPropelRouteCollection
+  options:
+    model:                transaction
+    module:               transaction
+    prefix_path:          /transaction
+    column:               id
+    with_wildcard_routes: true
+
+theme:
+  class: sfPropelRouteCollection
+  options:
+    model:                theme
+    module:               theme
+    prefix_path:          /theme
+    column:               id
+    with_wildcard_routes: true
+
+region:
+  class: sfPropelRouteCollection
+  options:
+    model:                region
+    module:               region
+    prefix_path:          /region
+    column:               id
+    with_wildcard_routes: true
+
+question:
+  class: sfPropelRouteCollection
+  options:
+    model:                question
+    module:               question
+    prefix_path:          /question
+    column:               id
+    with_wildcard_routes: true
+
+propertyview:
+  class: sfPropelRouteCollection
+  options:
+    model:                propertyview
+    module:               propertyview
+    prefix_path:          /propertyview
+    column:               id
+    with_wildcard_routes: true
+
+propertysurrounding:
+  class: sfPropelRouteCollection
+  options:
+    model:                propertysurrounding
+    module:               propertysurrounding
+    prefix_path:          /propertysurrounding
+    column:               id
+    with_wildcard_routes: true
+
+propertyavailability:
+  class: sfPropelRouteCollection
+  options:
+    model:                propertyavailability
+    module:               propertyavailability
+    prefix_path:          /propertyavailability
+    column:               id
+    with_wildcard_routes: true
+
+propertytype:
+  class: sfPropelRouteCollection
+  options:
+    model:                propertytype
+    module:               propertytype
+    prefix_path:          /propertytype
+    column:               id
+    with_wildcard_routes: true
+
+property:
+  class: sfPropelRouteCollection
+  options:
+    model:                property
+    module:               property
+    prefix_path:          /property
+    column:               id
+    with_wildcard_routes: true
+
+paymenttype:
+  class: sfPropelRouteCollection
+  options:
+    model:                paymenttype
+    module:               paymenttype
+    prefix_path:          /paymenttype
+    column:               id
+    with_wildcard_routes: true
+
+page:
+  class: sfPropelRouteCollection
+  options:
+    model:                page
+    module:               page
+    prefix_path:          /page
+    column:               id
+    with_wildcard_routes: true
+
+invoicetype:
+  class: sfPropelRouteCollection
+  options:
+    model:                invoicetype
+    module:               invoicetype
+    prefix_path:          /invoicetype
+    column:               id
+    with_wildcard_routes: true
+
+email:
+  class: sfPropelRouteCollection
+  options:
+    model:                email
+    module:               email
+    prefix_path:          /email
+    column:               id
+    with_wildcard_routes: true
+
+development:
+  class: sfPropelRouteCollection
+  options:
+    model:                development
+    module:               development
+    prefix_path:          /development
+    column:               id
+    with_wildcard_routes: true
+
+currency:
+  class: sfPropelRouteCollection
+  options:
+    model:                currency
+    module:               currency
+    prefix_path:          /currency
+    column:               id
+    with_wildcard_routes: true
+
+country:
+  class: sfPropelRouteCollection
+  options:
+    model:                country
+    module:               country
+    prefix_path:          /country
+    column:               id
+    with_wildcard_routes: true
+
+contract:
+  class: sfPropelRouteCollection
+  options:
+    model:                contract
+    module:               contract
+    prefix_path:          /contract
+    column:               id
+    with_wildcard_routes: true
+
+city:
+  class: sfPropelRouteCollection
+  options:
+    model:                city
+    module:               city
+    prefix_path:          /city
+    column:               id
+    with_wildcard_routes: true
+
+category:
+  class: sfPropelRouteCollection
+  options:
+    model:                category
+    module:               category
+    prefix_path:          /category
+    column:               id
+    with_wildcard_routes: true
+
+association:
+  class: sfPropelRouteCollection
+  options:
+    model:                association
+    module:               association
+    prefix_path:          /association
+    column:               id
+    with_wildcard_routes: true
+
+comment:
+  class: sfPropelRouteCollection
+  options:
+    model:                comment
+    module:               comment
+    prefix_path:          /comment
+    column:               id
+    with_wildcard_routes: true
+
+agency:
+  class: sfPropelRouteCollection
+  options:
+    model:                Agency
+    module:               agency
+    prefix_path:          /agency
+    column:               id
+    with_wildcard_routes: true
+
+language:
+  class: sfPropelRouteCollection
+  options:
+    model:                Language
+    module:               language
+    prefix_path:          /language
+    column:               id
+    with_wildcard_routes: true
+
+pagetype:
+  class: sfPropelRouteCollection
+  options:
+    model:                Pagetype
+    module:               pagetype
+    prefix_path:          /pagetype
+    column:               id
+    with_wildcard_routes: true
+
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+# default rules
+homepage:
+  url:   /
+  param: { module: transaction, action: index }
+
+forgot_password:
+    url:    /forgot-password
+    param:  { module: system, action: forgotPassword }
+
+sign_in:
+    url:    /sign-in
+    param:  { module: system, action: sign_in }
+
+sign_out:
+    url:    /sign-out
+    param:  { module: system, action: sign_out }
+
+# generic rules
+# please, remove them by adding more specific rules
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default:
+  url:   /:module/:action/*

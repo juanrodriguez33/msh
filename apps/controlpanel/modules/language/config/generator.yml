@@ -1,0 +1,27 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           language
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              language
+    plural:                languages
+    route_prefix:          language
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        culture:    { label: "Language" }
+      list:
+        display:  [title]
+        object_actions:
+          translations: { label: "Translations", action: "translations", icon: "language" }
+          _edit:  ~
+      filter:
+        display:  [title ]
+      form:    ~
+      edit:    ~
+      new:     ~

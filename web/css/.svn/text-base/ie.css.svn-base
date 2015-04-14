@@ -1,0 +1,42 @@
+/* GLOBAL IE FIXES */
+
+/* SELECT / DROPDOWN */
+span.dropdown   { visibility: hidden; }
+select          { padding: 5px 10px 5px 10px; }
+
+
+/* QandA */
+#QandA p{
+    height: 3em;   
+}
+
+
+/* DETAIL INFORMATION */
+#countryDetail .expander{
+    height: 294px;
+}
+#themes > aside + .expander{
+    height: 315px;
+}
+
+
+/* UL CATEGORY */
+ul.category > li > p {
+    height: 70px;
+}
+
+/* TABLE */
+table.table tbody tr th,
+table.table tbody tr td{
+    border-bottom: 1px solid #D6D6D6 !important;
+}
+
+
+/* FORMS: COMMENT FORM */
+#form_comment_message{
+    margin-left: 10px;
+    max-width: 442px !important;
+    min-width: 442px !important;
+    min-height: 120px;
+    width: 442px !important;
+}

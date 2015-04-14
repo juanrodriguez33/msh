@@ -1,0 +1,143 @@
+/** TOPRATED LIST */
+#facebook ul.topRated > li {
+    margin: 0 0 12px 0;
+    width: 196px;
+}
+#facebook ul.topRated > li + li{
+    margin-left: 12px;
+}
+#facebook ul.block > li a {
+    width: 176px;    
+}
+#facebook ul.topRated.big img{
+    height: 125px;
+    width: 200px;
+}
+
+
+/** FILTER */
+#facebook #div_demarcation .filter {
+    background: #f3f3f3;
+    margin: 0;
+    padding: 0 6px;
+    width: 160px;
+}
+#facebook #div_demarcation .filter a.a_icon_delete{
+    margin-top: 15px;    
+}
+#facebook #div_demarcation .filter div.suggestions{
+    margin-top: 59px;
+}
+#facebook #div_demarcation .filter select{
+    width: 158px;
+}
+#facebook #div_demarcation span.dropdown{
+    background-position: 118px -161px;
+    width: 158px;
+}
+#facebook #div_demarcation .filter div label{
+    width: 135px;
+}
+#facebook #div_demarcation .filter div input[type="text"]{
+    width: 134px;
+}
+
+
+/** CONTENT */
+#facebook #content.results{
+    float: left;
+    margin: 50px 0 0 12px;
+    width: 625px;
+}
+#facebook #content.results ul.block.topRated.big img {
+    height: 125px;
+    width: 200px;
+}
+#facebook #content.results ul.block.topRated.big span[container=favorite]{
+    display: none;
+}
+#facebook #content.results #button_next_page{
+    display: none !important;
+}
+#facebook #content.results ul#ul_pager_expand{
+    margin-bottom: 10px;
+}
+#facebook #content.results ul.pager{
+    display: block !important;
+    float: right;
+    margin-right: 5px;
+    max-width: 50%;
+    width: auto;
+}
+#facebook #content.results ul.pager > li{
+    border: solid 1px #D4D4D4;
+    display: block;
+    float: left;
+    padding: 0; 
+}
+#facebook #content.results ul.pager > li.liEllipsis{
+    border: none;
+}
+#facebook #content.results ul.pager > li + li{
+    margin-left: 5px;
+}
+#facebook #content.results ul.pager > li a{
+    display: block;
+    float: left;
+    min-width: 20px;
+    padding: 1px 0;
+    text-align: center;
+}
+#facebook #content.results ul#ul_top_pager{
+    margin-top: -40px;
+}
+
+
+/** SORT */
+#facebook #div_sort{
+    margin: 10px 0 20px;
+}
+#facebook #div_sort > div p.float_right{
+    /*margin-right: 5px;*/
+}
+#facebook #div_sort > a#aResetFilter{
+    display: none;
+}
+#facebook #div_sort p.head1{
+    float: left;
+    line-height: 130%;
+    max-width: 300px;
+    width: auto;
+}
+#facebook #div_sort > div{
+    width: 450px;
+}
+#facebook #div_sort span.dropdown{
+    background-position: 110px -160px;
+    margin: 8px 0 0 -150px;
+    width: 150px;
+}
+#facebook #div_sort #select_sort{
+    width: 150px;
+}
+#facebook #div_sort #filterCountResult{
+    margin: 60px 0 0 -170px;
+    position: absolute;
+}
+#facebook #div_sort ul.float_right{
+    display: none;
+}
+
+
+/** PAGER */
+#facebook ul.pager li.active a{
+    color: #F7B244;
+}
+
+
+/** ICON_DELETE */
+#facebook a.button.orange.a_icon_delete:focus,
+#facebook a.button.orange.a_icon_delete:active,
+#facebook a.button.orange.a_icon_delete:hover{
+    background-color: #F00 !important;
+}

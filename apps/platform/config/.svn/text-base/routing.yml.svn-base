@@ -1,0 +1,196 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+# default rules
+homepage:
+  url:   /
+  param: { module: system, action: index }
+
+country_warning:
+  url: /country-warning
+  param: { module: system, action: countryWarning }
+
+api_country:
+  url: /api/country
+  param: { module: api, action: country }
+
+api_region:
+  url: /api/region
+  param: { module: api, action: region }
+
+api_city:
+  url: /api/city
+  param: { module: api, action: city }
+
+api_region_options:
+  url: /api/region_options
+  param: { module: api, action: regionOfCountry }
+
+api_city_options:
+  url: /api/city_options
+  param: { module: api, action: cityOfRegion }
+
+api_development_info:
+  url: /api/development_info
+  param: { module: api, action: developmentInfo }
+
+portal_registration:
+  url:  /portal/registration
+  param: { module: portal, action: registration }
+
+portal_register:
+  url:  /portal/register
+  param: { module: portal, action: register }
+
+portal_overview:
+  url:  /portal
+  param: { module: portal, action: index }
+
+portal_buycredits:
+  url:  /portal/buycredits
+  param: { module: portal, action: buyCredits }
+
+portal_buycredits_return:
+  url:  /portal/buycredits/return
+  param: { module: portal, action: buyCreditsReturn }
+
+portal_developments:
+  url:  /portal/developments
+  param: { module: portal, action: developments }
+
+portal_developments_add:
+  url:  /portal/developments/add
+  param: { module: portal, action: addDevelopment }
+
+portal_developments_edit:
+  url:  /portal/developments/edit/:id
+  param: { module: portal, action: editDevelopment }
+
+portal_developments_delete:
+  url:  /portal/developments/delete/:id
+  param: { module: portal, action: deleteDevelopment }
+
+portal_developments_image_upload:
+  url:  /portal/developments/image/upload
+  param: { module: portal, action: uploadDevelopmentImage }
+
+portal_developments_image_delete:
+  url:  /portal/developments/image/delete
+  param: { module: portal, action: deleteDevelopmentImage }
+
+portal_properties:
+  url:  /portal/properties
+  param: { module: portal, action: properties }
+
+portal_properties_add:
+  url:  /portal/properties/add
+  param: { module: portal, action: addProperty }
+
+portal_properties_edit:
+  url:  /portal/properties/edit/:id
+  param: { module: portal, action: editProperty }
+
+portal_properties_delete:
+  url:  /portal/properties/delete/:id
+  param: { module: portal, action: deleteProperty }
+
+portal_properties_activate:
+  url:  /portal/properties/activate/:id
+  param: { module: portal, action: activateProperty }
+
+portal_properties_deactivate:
+  url:  /portal/properties/deactivate/:id
+  param: { module: portal, action: deactivateProperty }
+
+portal_properties_image_upload:
+  url:  /portal/properties/image/upload
+  param: { module: portal, action: uploadPropertyImage }
+
+portal_properties_image_delete:
+  url:  /portal/properties/image/delete
+  param: { module: portal, action: deletePropertyImage }
+
+portal_properties_upsell:
+  url:  /portal/properties/upsell/:id
+  param: { module: portal, action: upsellProperty }
+
+portal_developments:
+  url:  /portal/developments
+  param: { module: portal, action: developments }
+
+portal_conversions:
+  url:  /portal/conversion
+  param: { module: portal, action: conversions }
+
+portal_conversions_show:
+  url:  /portal/conversion/show/:id
+  param: { module: portal, action: showConversion }
+
+portal_conversions_delete:
+  url:  /portal/conversion/delete/:id
+  param: { module: portal, action: deleteConversion }
+
+portal_oauth:
+  url:  /portal/oauth-callback
+  param: { module: portal, action: oauthCallback }
+
+portal_statistics:
+  url:  /portal/statistics
+  param: { module: portal, action: statistics }
+
+portal_statistics_graph:
+  url:  /portal/statistics/graph
+  param: { module: portal, action: statisticsGraph }
+
+portal_profile:
+  url: /portal/profile
+  param: { module: portal, action: profile }
+
+portal_profile_add_user:
+  url: /portal/profile/employee/add
+  param: { module: portal, action: profileAddEmployee }
+
+portal_profile_edit_user:
+  url: /portal/profile/employee/:id
+  param: { module: portal, action: profileEditEmployee }
+
+portal_profile_delete_user:
+  url: /portal/profile/employee/delete/:id
+  param: { module: portal, action: profileDeleteEmployee }
+
+portal_profile_consumer:
+  url: /portal/consumer
+  param: { module: portal, action: profileConsumer }
+
+portal_package:
+  url: /portal/package
+  param: { module: portal, action: package }
+
+catchall:
+  url:  /*
+  param: { module: system, action: router }
+
+
+level1:
+  url: /:level1
+
+level2:
+  url: /:level1/:level2
+
+level3:
+  url: /:level1/:level2/:level3
+
+level4:
+  url: /:level1/:level2/:level3/:level4
+
+level5:
+  url: /:level1/:level2/:level3/:level4/:level5
+
+# generic rules
+# please, remove them by adding more specific rules
+#default_index:
+#  url:   /:module
+#  param: { action: index }
+
+#default:
+#  url:   /:module/:action/*

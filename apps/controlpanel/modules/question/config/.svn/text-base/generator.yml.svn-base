@@ -1,0 +1,36 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           question
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              question
+    plural:                questions
+    route_prefix:          question
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        custom_url: {label: "Alternate URL"}
+      list:
+        title: Questions
+        display: [title, language, category, country]
+        object_actions:
+          comments: { label: "Comments", icon: "comments" }
+          _edit:     ~
+          _delete:   ~
+      filter:
+        display: [language_id, category_id, country_id, title]
+      form:
+        display:
+          Relation:       [language_id, category_id, country_id]
+          AskedBy:        [name, email, active]
+          break:          [id]
+          Question:       [title, content]
+          SEO:            [custom_url, meta_title, meta_description]
+      edit:    ~
+      new:     ~
+

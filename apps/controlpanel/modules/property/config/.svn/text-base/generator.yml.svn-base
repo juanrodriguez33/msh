@@ -1,0 +1,47 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           property
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              property
+    plural:                propertys
+    route_prefix:          property
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        isdevelopment:      { label: "Development?" }
+        user_id:            { label: "User" }
+        development_id:     { label: "Development project" }
+        association_id:     { label: "Provider" }
+        allowed:            { label: "Correct" }
+        trial:              { label: "Trial period" }
+        max_renting_period: { label: "Max rental period in months" }
+        renting_indication: { label: "Indication of rent" }
+      list:
+        title:  Properties
+        display:  [country, region, city, address1, price, allowed]
+        object_actions:
+          _edit:     ~
+          _delete:   ~
+          images:   { label: Images, icon: images }
+      filter:
+        display:  [country_id, region_id, city_id, address1, price, user_id, association_id, online]
+      form:
+        display:
+          Development:  [isdevelopment, development_id]
+          Location:     [country_id, region_id, city_id, address1, address2]
+          Basic:        [type_id, volume, surface, rooms, bedrooms, bathrooms, trial, renting_allowed, max_renting_period, rent_indication]
+          Maintenance:  [furnished, constructionyear, renovationyear, isolation, doubleglass, interior_state, exterior_state, wheelchair]
+          Map:          [pdf_map]
+          Surrounding:  [surrounding, view, horeca, amusement ]
+          break:        [id]
+          Pricing:      [currency_id, price, availability_state, online ]
+          Contact:      [user_id, association_id, email_address, phone_number]
+          Textueel:     [en<?php foreach(LanguagePeer::getIndex() as $oLang) { echo ','.$oLang->getCulture();} ?>]
+      edit:    ~
+      new:     ~

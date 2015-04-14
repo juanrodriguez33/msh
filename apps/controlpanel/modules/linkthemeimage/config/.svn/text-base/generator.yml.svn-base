@@ -1,0 +1,33 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           linkthemeimage
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              linkthemeimage
+    plural:                linkthemeimages
+    route_prefix:          linkthemeimage
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        title:   Images for
+        display: [sequence, _example]
+        object_actions:
+          down:    { label: Omlaag, icon: down }
+          up:      { label: Omhoog, icon: up }
+          _delete:  ~
+        batch_actions: []
+        actions:
+          _new:   ~
+          back:    { label: Back to theme's }
+
+      filter:
+        class: false
+      form:    ~
+      edit:    ~
+      new:     ~

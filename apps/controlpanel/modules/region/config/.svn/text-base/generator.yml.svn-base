@@ -1,0 +1,42 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           region
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              region
+    plural:                regions
+    route_prefix:          region
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+
+      actions: ~
+
+      fields:
+        active: { label: Approved }
+        online: { label: Online }
+
+      list:
+        title:   Regio's
+        display: [active, title, country]
+        object_actions:
+          _edit:     ~
+          images:   { label: Images, icon: images }
+
+      filter:
+        display: [active, country_id ]
+
+      form:
+        display:
+          Basic:      [active, online, country_id]
+          Details:    [theme]
+          break:      [id]
+          Content:    [en<?php foreach(LanguagePeer::getIndex() as $oLang) { echo ','.$oLang->getCulture();} ?>]
+
+      edit: ~
+
+      new: ~
+

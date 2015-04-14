@@ -1,0 +1,33 @@
+generator:
+  class: sfPropelGenerator
+  param:
+    model_class:           linkpropertyimage
+    theme:                 vindjeplek
+    non_verbose_templates: true
+    with_show:             false
+    singular:              linkpropertyimage
+    plural:                linkpropertyimages
+    route_prefix:          linkpropertyimage
+    with_propel_route:     1
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        title:   Images for
+        display: [sequence, _example]
+        object_actions:
+          down:    { label: Omlaag, icon: down }
+          up:      { label: Omhoog, icon: up }
+          _delete:  ~
+        batch_actions: []
+        actions:
+          _new:   ~
+          back:    { label: Back to properties }
+
+      filter:
+        class: false
+      form:    ~
+      edit:    ~
+      new:     ~
